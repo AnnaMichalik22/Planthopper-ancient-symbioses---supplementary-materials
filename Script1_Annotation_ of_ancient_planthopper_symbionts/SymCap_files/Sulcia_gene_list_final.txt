@@ -1,0 +1,239 @@
+ID	type	gene	locus_tag	product	EC_number	homolog	classification
+aceF	CDS	aceF		Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex	EC 2.3.1.12		Metabolism
+acoA	CDS	acoA		Acetoin:2, 6-dichlorophenolindophenol oxidoreductase subunit alpha			Metabolism
+acoB	CDS	acoB		2-oxoisovalerate dehydrogenase subunit beta			Metabolism
+alaS	CDS	alaS		Alanine--tRNA ligase			Aminoacyl-tRNA synthetase
+ahpC	CDC	ahpC		Alkyl hydroperoxide reductase C (peroxiredoxin)			Other
+asnS	CDS	asnS		Asparagine--tRNA ligase			Aminoacyl-tRNA synthetase
+aspC	CDS	aspC		Aspartate aminotransferase			Biosynthesis - Phe
+aspS	CDS	aspS		Aspartate--tRNA ligase			Aminoacyl-tRNA synthetase
+clpP	CDS	clpP		ATP-dependent Clp protease proteolytic subunit			Protein folding and degradation
+clpX	CDS	clpX		ATP-dependent Clp protease ATP-binding subunit ClpX			Protein folding and degradation
+cysS	CDS	cysS		Cysteine--tRNA ligase			Aminoacyl-tRNA synthetase
+def	CDS	def		Peptide deformylase			Translation
+der	CDS	der		50S ribosomal subunit stability factor			Ribosome-related
+dnaB	CDS	dnaB		Replicative DNA helicase			DNA replication and repair
+dnaE-dnaQ	CDS	dnaE-dnaQ		DNA polymerase III alpha subunit			DNA replication and repair
+dnaJ	CDS	dnaJ		Heat shock protein J			Protein folding and degradation
+dnaK	CDS	dnaK		Heat shock protein 70			Protein folding and degradation
+dnaN	CDS	dnaN		DNA polymerase III subunit beta			DNA replication and repair
+dnaX	CDS	dnaX		DNA polymerase III subunit tau			DNA replication and repair
+frr	CDS	frr		Ribosome-recycling factor			Translation
+ftsH	CDS	ftsH		ATP-dependent zinc metalloprotease 			Other
+fusA	CDS	fusA		elongation factor EF-2			Translation
+glnS	CDS	glnS		Glutamine--tRNA ligase			Aminoacyl-tRNA synthetase
+gltX	CDS	gltX		Glutamyl-tRNA synthetase			Aminoacyl-tRNA synthetase
+glyS	CDS	glyS		Glycine--tRNA ligase			Aminoacyl-tRNA synthetase
+groL	CDS	groL		chaperonin GroEL			Protein folding and degradation
+groS	CDS	groS		co-chaperonin GroES			Protein folding and degradation
+grpE	CDS	grpE		Protein GrpE			Protein folding and degradation
+hflX	CDS	hflX		GTP-binding protein HflX			Ribosome-related
+hisS	CDS	hisS		Histidine--tRNA ligase			Aminoacyl-tRNA synthetase
+holA	CDS	holA		DNA polymerase III subunit delta,			DNA replication and repair
+holA2	CDS	holA2		DNA polymerase III subunit delta			DNA replication and repair
+holA3	CDS	holA3		DNA polymerase III subunit delta			DNA replication and repair
+holB	CDS	holB		DNA polymerase III subunit delta'			DNA replication and repair
+hsdR	CDS	hsdR		Type I restriction enzyme R protein N terminus			Other
+htpG	CDS	htpG		Chaperone protein HtpG			Protein folding and degradation
+ileS	CDS	ileS		Isoleucine--tRNA ligase			Aminoacyl-tRNA synthetase
+ilvB	CDS	ilvB		Acetolactate synthase large subunit			Biosynthesis - Ile
+ilvC	CDS	ilvC		Ketol-acid reductoisomerase			Biosynthesis - Ile
+ilvD	CDS	ilvD		Dihydroxy-acid dehydratase			Biosynthesis - Ile
+ilvE	CDS	ilvE		Branched-chain-amino-acid aminotransferase			Biosynthesis - Ile
+ilvN	CDS	ilvN		Acetolactate synthase small subunit			Biosynthesis - Ile
+infA	CDS	infA		Translation initiation factor IF-1			Translation
+infA2	CDS	infA2		Translation initiation factor IF-1			Translation
+infB	CDS	infB		Translation initiation factor IF-2			Translation
+infC	CDS	infC		Translation initiation factor IF-3			Translation
+iscS	CDS	iscS		Cysteine desulfurase			Metabolism
+korA	CDS	korA		2-oxoglutarate oxidorductase subunit korA			Metabolism
+korB	CDS	korB		2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta			Metabolism
+lepA	CDS	lepA		Elongation factor 4			Translation
+leuA	CDS	leuA		2-isopropylmalate synthase			Biosynthesis - Leu
+leuB	CDS	leuB		3-isopropylmalate dehydrogenase			Biosynthesis - Leu
+leuC	CDS	leuC		3-isopropylmalate dehydratase large subunit			Biosynthesis - Leu
+leuD	CDS	leuD		3-isopropylmalate dehydratase small subunit 1			Biosynthesis - Leu
+leuS	CDS	leuS		Leucine--tRNA ligase			Aminoacyl-tRNA synthetase
+lipA	CDS	lipA		Lipoyl synthase			Metabolism
+lipB	CDS	lipB		Octanoyltransferase			Metabolism
+lpdA	CDS	lpdA		Dihydrolipoyl dehydrogenase			Metabolism
+lysS	CDS	lysS		Lysine--tRNA ligase			Aminoacyl-tRNA synthetase
+map	CDS	map		Methionine aminopeptidase			Translation
+mdh	CDS	mdh		Malate dehydrogenase			Metabolism
+maeB	CDS	maeB		NADP-dependent malic enzyme			Metabolism
+metG	CDS	metG		Methionine--tRNA ligase			Aminoacyl-tRNA synthetase
+miaB	CDS	miaB		tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase			Translation
+mnmA	CDS	mnmA		tRNA-specific 2-thiouridylase MnmA			Translation
+mnmE	CDS	mnmE		tRNA uridine-5-carboxymethylaminomethylmnmE			Translation
+mnmG	CDS	mnmG		tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA			Translation
+mutL	CDS	mutL		DNA mismatch repair protein mutL			DNA replication and repair
+mutS	CDS	mutS		DNA mismatch repair protein mutS			DNA replication and repair
+mtaB	CDS	mtaB		(N(6)-L-threonylcarbamoyladenosine(37)-C(2))			Translation
+obg	CDS	obg		GTPase Obg			Other
+pheS	CDS	pheS		Phenylalanine--tRNA ligase alpha subunit			Aminoacyl-tRNA synthetase
+pheT	CDS	pheT		Phenylalanine--tRNA ligase beta subunit			Aminoacyl-tRNA synthetase
+pnp	CDS	pnp		Polyribonucleotide nucleotidyltransferase			Other
+prfA	CDS	prfA		Peptide chain release factor 1			Translation
+prfB	CDS	prfB		Peptide chain release factor 2			Translation
+proS	CDS	proS		Proline--tRNA ligase			Aminoacyl-tRNA synthetase
+pta	CDS	pta		phosphate acetyltransferase			Metabolism
+queA	CDS	queA		S-adenosylmethionine:tRNA ribosyltransferase-isomerase			Translation
+rho	CDS	rho		Transcription termination factor Rho			Transcription
+rluD	CDS	rluD		Pseudouridine synthase			Ribosome-related
+rnpA	CDS	rnpA		Ribonuclease P protein component			Translation
+rplA	CDS	rplA		50S ribosomal protein L1			Ribosomal subunit proteins
+rplB	CDS	rplB		50S ribosomal protein L2			Ribosomal subunit proteins
+rplC	CDS	rplC		50S ribosomal protein L3			Ribosomal subunit proteins
+rplD	CDS	rplD		50S ribosomal protein L4			Ribosomal subunit proteins
+rplE	CDS	rplE		50S ribosomal protein L5			Ribosomal subunit proteins
+rplF	CDS	rplF		50S ribosomal protein L6			Ribosomal subunit proteins
+rplI	CDS	rplI		50S ribosomal protein L9			Ribosomal subunit proteins
+rplI2	CDS	rplI		50S ribosomal protein L9			Ribosomal subunit proteins
+rplJ	CDS	rplJ		50S ribosomal protein L10			Ribosomal subunit proteins
+rplK	CDS	rplK		50S ribosomal protein L11			Ribosomal subunit proteins
+rplL	CDS	rplL		50S ribosomal protein L7/L12			Ribosomal subunit proteins
+rplM	CDS	rplM		50S ribosomal protein L13			Ribosomal subunit proteins
+rplN	CDS	rplN		50S ribosomal protein L14			Ribosomal subunit proteins
+rplO	CDS	rplO		50S ribosomal protein L15			Ribosomal subunit proteins
+rplP	CDS	rplP		50S ribosomal protein L16			Ribosomal subunit proteins
+rplQ	CDS	rplQ		50S ribosomal protein L17			Ribosomal subunit proteins
+rplR	CDS	rplR		50S ribosomal protein L18			Ribosomal subunit proteins
+rplS	CDS	rplS		50S ribosomal protein L19			Ribosomal subunit proteins
+rplT	CDS	rplT		50S ribosomal protein L20			Ribosomal subunit proteins
+rplU	CDS	rplU		50S ribosomal protein L21			Ribosomal subunit proteins
+rplV	CDS	rplV		50S ribosomal protein L22			Ribosomal subunit proteins
+rplW	CDS	rplW		50S ribosomal protein L23			Ribosomal subunit proteins
+rplX	CDS	rplX		50S ribosomal protein L24			Ribosomal subunit proteins
+rplY	CDS	rplY		50S ribosomal subunit protein L25			Ribosomal subunit proteins
+rpmA	CDS	rpmA		50S ribosomal protein L27			Ribosomal subunit proteins
+rpmB	CDS	rpmB		50S ribosomal subunit protein L28			Ribosomal subunit proteins
+rpmE	CDS	rpmE		50S ribosomal protein L31			Ribosomal subunit proteins
+rpmF	CDS	rpmF		50S ribosomal subunit protein L32			Ribosomal subunit proteins
+rpmG	CDS	rpmG		50S ribosomal protein L33 2			Ribosomal subunit proteins
+rpmH	CDS	rpmH		50S ribosomal protein L34			Ribosomal subunit proteins
+rpmI	CDS	rpmI		50S ribosomal protein L35			Ribosomal subunit proteins
+rpmJ	CDS	rpmJ		50S ribosomal protein L36			Ribosomal subunit proteins
+rpoA	CDS	rpoA		DNA-directed RNA polymerase subunit alpha			Transcription
+rpoB	CDS	rpoB		DNA-directed RNA polymerase subunit beta			Transcription
+rpoC	CDS	rpoC		DNA-directed RNA polymerase subunit beta'			Transcription
+rpoD	CDS	rpoD		RNA polymerase sigma factor rpoD			Transcription
+rpsA	CDS	rpsA		30S ribosomal protein S1			Ribosomal subunit proteins
+rpsB	CDS	rpsB		30S ribosomal protein S2			Ribosomal subunit proteins
+rpsC	CDS	rpsC		30S ribosomal protein S3			Ribosomal subunit proteins
+rpsD	CDS	rpsD		30S ribosomal protein S4			Ribosomal subunit proteins
+rpsE	CDS	rpsE		30S ribosomal subunit protein S5			Ribosomal subunit proteins
+rpsF	CDS	rpsF		30S ribosomal protein S6			Ribosomal subunit proteins
+rpsG	CDS	rpsG		30S ribosomal protein S7			Ribosomal subunit proteins
+rpsH	CDS	rpsH		30S ribosomal protein S8			Ribosomal subunit proteins
+rpsI	CDS	rpsI		30S ribosomal protein S9			Ribosomal subunit proteins
+rpsJ	CDS	rpsJ		30S ribosomal protein S10			Ribosomal subunit proteins
+rpsK	CDS	rpsK		30S ribosomal subunit protein S11			Ribosomal subunit proteins
+rpsL	CDS	rpsL		30S ribosomal protein S12			Ribosomal subunit proteins
+rpsM	CDS	rpsM		30S ribosomal protein S13			Ribosomal subunit proteins
+rpsN	CDS	rpsN		30S ribosomal protein S14			Ribosomal subunit proteins
+rpsO	CDS	rpsO		30S ribosomal protein S15			Ribosomal subunit proteins
+rpsP	CDS	rpsP		30S ribosomal protein S16			Ribosomal subunit proteins
+rpsQ	CDS	rpsQ		30S ribosomal protein S17			Ribosomal subunit proteins
+rpsR	CDS	rpsR		30S ribosomal protein S18			Ribosomal subunit proteins
+rpsS	CDS	rpsS		30S ribosomal protein S19			Ribosomal subunit proteins
+rpsT	CDS	rpsT		30S ribosomal protein S20			Ribosomal subunit proteins
+rpsU	CDS	rpsU		30S ribosomal protein S21			Ribosomal subunit proteins
+rsfS	CDS	rsfS		Ribosomal silencing factor RsfS			Ribosome-related
+rsmA	CDS	rsmA		Ribosomal RNA small subunit methyltransferase A			Ribosome-related
+rsmG	CDS	rsmG		Ribosomal small subunit metyltransferaze G			Ribosome-related
+rsmH	CDS	rsmH		Ribosomal RNA small subunit methyltransferase H			Ribosome-related
+ruvC	CDC	ruvC		Crossover junction endodeoxyribonuclease RuvC			DNA replication and repair
+serS	CDS	serS		Serine--tRNA ligase			Aminoacyl-tRNA synthetase
+smpB	CDS	smpB		SsrA-binding protein			Translation
+sufB	CDS	sufB		FeS cluster assembly protein sufB			Metabolism
+sufC	CDS	sufC		putative ATP-dependent transporter SufC			Metabolism
+sufD	CDS	sufD		FeS cluster assembly protein sufD			Metabolism
+sufE	CDS	sufE		Cysteine desulfuration protein sufE			Metabolism
+sufS	CDS	sufS		Cysteine desulfurase			Metabolism
+tilS	CDS	tilS		tRNA(Ile)-lysidine synthase			Aminoacyl-tRNA synthetase
+trmH	CDS	trmH		Putative TrmH family tRNA/rRNA methyltransferase			Translation
+trpS	CDS	trpS		Tryptophan--tRNA ligase			Aminoacyl-tRNA synthetase
+truA	CDS	truA		tRNA pseudouridine synthase A			Translation
+trxB	CDS	trxB		Thioredoxin reductase			Metabolism
+tsaB	CDS	tsaB		N6-L-threonylcarbamoyladenine synthase  TsaB subunit			Translation
+tsaD	CDS	tsaD		N6-L-threonylcarbamoyladenine synthase  TsaD subunit			Translation
+tsf	CDS	tsf		elongation factor Ts			Translation
+tufA	CDS	tufA		Elongation factor Tu			Translation
+tyrS	CDS	tyrS		Tyrosine--tRNA ligase			Aminoacyl-tRNA synthetase
+valS	CDS	valS		Valine--tRNA ligase			Aminoacyl-tRNA synthetase
+ybeY	CDS	ybeY		Endoribonuclease YbeY			Ribosome-related
+xxx001	CDS	xxx001		C4-type zinc ribbon domain-containing protein			not_yet_classified
+xxx002	CDS	xxx002		M42 family metalloprotease			not_yet_classified
+xxx003	CDS	xxx003		DUF3127 domain-containing protein			not_yet_classified
+xxx004	CDS	xxx004		hypothetical protein_xxx004			not_yet_classified
+xxx005	CDS	xxx005		hypothetical protein_xxx005			not_yet_classified
+xxx006	CDS	xxx006		hypothetical protein_xxx006			not_yet_classified
+xxx007	CDS	xxx007		U32 family peptidase			not_yet_classified
+xxx008	CDS	xxx008		hypothetical protein_xxx008			not_yet_classified
+xxx009	CDS	xxx009		hypothetical protein_xxx009			not_yet_classified
+xxx010	CDS	xxx010		hypothetical protein_xxx010			not_yet_classified
+xxx011	CDS	xxx011		hypothetical protein_xxx011			not_yet_classified
+xxx012	CDS	xxx012		hypothetical protein_xxx012			not_yet_classified
+xxx013	CDS	xxx013		U32 family peptidase			not_yet_classified
+xxx014	CDS	xxx014		4Fe-4S ferredoxin			not_yet_classified
+xxx015	CDS	xxx015		hypothetical protein_xxx015			not_yet_classified
+xxx016	CDS	xxx016		hypothetical protein_xxx016			not_yet_classified
+xxx017	CDS	xxx017		hypothetical protein_xxx017			not_yet_classified
+xxx018	CDS	xxx018		hypothetical protein_xxx018			not_yet_classified
+xxx019	CDS	xxx019		hypothetical protein_xxx019			not_yet_classified
+xxx020	CDS	xxx020		hypothetical protein_xxx020			not_yet_classified
+xxx021	CDS	xxx021		TLC domain-containing protein			not_yet_classified
+xxx022	CDS	xxx022		hypothetical protein_xxx022			not_yet_classified
+xxx023	CDS	xxx023		hypothetical protein_xxx023			not_yet_classified
+xxx024	CDS	xxx024		RNA methyltransferase			not_yet_classified
+xxx025	CDS	xxx025		hypothetical protein_xxx025			not_yet_classified
+xxx026	CDS	xxx026		hypothetical protein_xxx026			not_yet_classified
+xxx027	CDS	xxx027		General transcription factor II-I repeat domain-containing protein 2			not_yet_classified
+xxx028	CDS	xxx028		VWFA domain-containing protein			not_yet_classified
+xxx029	CDS	xxx029		hypothetical protein_xxx029			not_yet_classified
+xxx030	CDS	xxx030		hypothetical protein_xxx030			not_yet_classified
+xxx031	CDS	xxx031		hypothetical protein_xxx031			not_yet_classified
+xxx032	CDS	xxx032		hypothetical protein_xxx032			not_yet_classified
+xxx033	CDS	xxx033		hypothetical protein_xxx033			not_yet_classified
+xxx034	CDS	xxx034		hypothetical protein_xxx034			not_yet_classified
+xxx035	CDS	xxx035		hypothetical protein_xxx035			not_yet_classified
+xxx036	CDS	xxx036		hypothetical protein_xxx036			not_yet_classified
+xxx037	CDS	xxx037		hypothetical protein_xxx037			not_yet_classified
+xxx038	CDS	xxx038		hypothetical protein_xxx038			not_yet_classified
+xxx039	CDS	xxx039		hypothetical protein_xxx039			not_yet_classified
+xxx040	CDS	xxx040		hypothetical protein_xxx040			not_yet_classified
+xxx041	CDS	xxx041		hypothetical protein_xxx041			not_yet_classified
+rnpB	ncRNA	rnpB		RNA component of RNase P enzyme			Translation-RNAs
+ssrA	ncRNA	ssrA		transfer-messenger RNA			Translation-RNAs
+rrfA	rRNA	rrfA		5S ribosomal RNA			Translation-RNAs
+rrlA	rRNA	rrlA		23S ribosomal RNA			Translation-RNAs
+rrsA	rRNA	rrsA		16S ribosomal RNA			Translation-RNAs
+ACG	tRNA	trnR		tRNA-Arg			Translation
+CAA	tRNA	trnL		tRNA-Leu			Translation
+CAT	tRNA	trnM		tRNA-Met			Translation
+CCA	tRNA	trnW		tRNA-Trp			Translation
+GAA	tRNA	trnF		tRNA-Phe			Translation
+GAG	tRNA	trnL		tRNA-Leu			Translation
+GAT	tRNA	trnI		tRNA-Ile			Translation
+GCA	tRNA	trnC		tRNA-Cys			Translation
+GCC	tRNA	trnG		tRNA-Gly			Translation
+GCT	tRNA	trnS		tRNA-Ser			Translation
+GGA	tRNA	trnS		tRNA-Ser			Translation
+GGT	tRNA	trnT		tRNA-Thr			Translation
+GTA	tRNA	trnY		tRNA-Tyr			Translation
+GTC	tRNA	trnD		tRNA-Asp			Translation
+GTG	tRNA	trnH		tRNA-His			Translation
+GTT	tRNA	trnN		tRNA-Asn			Translation
+TAA	tRNA	trnL		tRNA-Leu			Translation
+TAC	tRNA	trnV		tRNA-Val			Translation
+TAG	tRNA	trnL		tRNA-Leu			Translation
+TCC	tRNA	trnG		tRNA-Gly			Translation
+TCT	tRNA	trnR		tRNA-Arg			Translation
+TGA	tRNA	trnS		tRNA-Ser			Translation
+TGA	tRNA	trnS		TRNA-Ser			Translation
+TGC	tRNA	trnA		tRNA-Ala			Translation
+TGG	tRNA	trnP		tRNA-Pro			Translation
+TGT	tRNA	trnT		tRNA-Thr			Translation
+TTC	tRNA	trnE		tRNA-Glu			Translation
+TTG	tRNA	trnQ		tRNA-Gln			Translation
+TTT	tRNA	trnK		tRNA-Lys			Translation

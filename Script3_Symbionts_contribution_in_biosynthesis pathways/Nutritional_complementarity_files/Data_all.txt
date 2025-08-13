@@ -1,0 +1,3036 @@
+ASICLA	lysC	Phyllobacterium
+ASICLA	asd	Phyllobacterium
+ASICLA	thrA	Phyllobacterium
+ASICLA	thrB	
+ASICLA	thrC	
+ASICLA	metA	Phyllobacterium
+ASICLA	metB	Phyllobacterium
+ASICLA	metC	Phyllobacterium
+ASICLA	metE	
+ASICLA	dapA	Phyllobacterium
+ASICLA	dapB	Phyllobacterium
+ASICLA	dapC	Phyllobacterium
+ASICLA	dapD	Phyllobacterium
+ASICLA	dapE	Phyllobacterium
+ASICLA	dapF	Phyllobacterium
+ASICLA	lysA	Phyllobacterium
+ASICLA	argA	
+ASICLA	argB	Phyllobacterium
+ASICLA	argC	Phyllobacterium
+ASICLA	argD	Phyllobacterium
+ASICLA	argE	Phyllobacterium
+ASICLA	argF	
+ASICLA	argG	Phyllobacterium
+ASICLA	argH	Phyllobacterium
+ASICLA	carA	
+ASICLA	carB	Phyllobacterium
+ASICLA	hisA	
+ASICLA	hisB	Phyllobacterium
+ASICLA	hisC	Phyllobacterium
+ASICLA	hisD	
+ASICLA	hisE	Phyllobacterium
+ASICLA	hisF	Phyllobacterium
+ASICLA	hisG	Phyllobacterium
+ASICLA	hisH	Phyllobacterium
+ASICLA	hisI	
+ASICLA	aroG	
+ASICLA	aroB	
+ASICLA	aroQ	Phyllobacterium
+ASICLA	aroE	Phyllobacterium
+ASICLA	aroK	Phyllobacterium
+ASICLA	aroA	
+ASICLA	aroC	
+ASICLA	pheA	Phyllobacterium
+ASICLA	aspC	Phyllobacterium
+ASICLA	trpE	Phyllobacterium
+ASICLA	trpD	
+ASICLA	trpG	Phyllobacterium
+ASICLA	trpF	Phyllobacterium
+ASICLA	trpC	
+ASICLA	trpB	Phyllobacterium
+ASICLA	trpA	Phyllobacterium
+ASICLA	ilvB	Phyllobacterium
+ASICLA	ilvN	
+ASICLA	ilvC	Phyllobacterium
+ASICLA	ilvD	Phyllobacterium
+ASICLA	leuA	
+ASICLA	leuC	Phyllobacterium
+ASICLA	leuD	Phyllobacterium
+ASICLA	leuB	Phyllobacterium
+ASICLA	ilvE	
+ASICLA	ilvA	Phyllobacterium
+ASICLA	ilvB	Phyllobacterium
+ASICLA	ilvN	
+ASICLA	ilvC	Phyllobacterium
+ASICLA	ilvD	Phyllobacterium
+ASICLA	ilvE	
+VIZSP	lysC	Rickettsia
+VIZSP	asd	Rickettsia
+VIZSP	thrA	Rickettsia
+VIZSP	thrB	
+VIZSP	thrC	
+VIZSP	metA	
+VIZSP	metB	
+VIZSP	metC	
+VIZSP	metE	
+VIZSP	dapA	Rickettsia
+VIZSP	dapB	Rickettsia
+VIZSP	dapC	Rickettsia
+VIZSP	dapD	Rickettsia
+VIZSP	dapE	Rickettsia
+VIZSP	dapF	Rickettsia
+VIZSP	lysA	
+VIZSP	argA	
+VIZSP	argB	Rickettsia
+VIZSP	argC	
+VIZSP	argD	
+VIZSP	argE	
+VIZSP	argF	
+VIZSP	argG	
+VIZSP	argH	
+VIZSP	carA	
+VIZSP	carB	
+VIZSP	hisA	
+VIZSP	hisB	
+VIZSP	hisC	
+VIZSP	hisD	
+VIZSP	hisE	
+VIZSP	hisF	
+VIZSP	hisG	
+VIZSP	hisH	
+VIZSP	hisI	
+VIZSP	aroG	
+VIZSP	aroB	
+VIZSP	aroQ	
+VIZSP	aroE	
+VIZSP	aroK	
+VIZSP	aroA	
+VIZSP	aroC	
+VIZSP	pheA	
+VIZSP	aspC	
+VIZSP	trpE	
+VIZSP	trpD	
+VIZSP	trpG	
+VIZSP	trpF	
+VIZSP	trpC	
+VIZSP	trpB	
+VIZSP	trpA	
+VIZSP	ilvB	
+VIZSP	ilvN	
+VIZSP	ilvC	
+VIZSP	ilvD	
+VIZSP	leuA	
+VIZSP	leuC	
+VIZSP	leuD	
+VIZSP	leuB	
+VIZSP	ilvE	
+VIZSP	ilvA	Rickettsia
+VIZSP	ilvB	
+VIZSP	ilvN	
+VIZSP	ilvC	
+VIZSP	ilvD	
+VIZSP	ilvE	
+SACSP1	lysC	Tokpelaia,Sodalis
+SACSP1	asd	Tokpelaia,Sodalis
+SACSP1	thrA	Tokpelaia,Sodalis
+SACSP1	thrB	
+SACSP1	thrC	Tokpelaia,Sodalis
+SACSP1	metA	
+SACSP1	metB	
+SACSP1	metC	
+SACSP1	metE	
+SACSP1	dapA	Tokpelaia,Sodalis
+SACSP1	dapB	Tokpelaia,Sodalis
+SACSP1	dapC	Tokpelaia
+SACSP1	dapD	Tokpelaia,Sodalis
+SACSP1	dapE	Tokpelaia,Sodalis
+SACSP1	dapF	Tokpelaia
+SACSP1	lysA	Tokpelaia,Sodalis
+SACSP1	argA	
+SACSP1	argB	
+SACSP1	argC	Tokpelaia
+SACSP1	argD	
+SACSP1	argE	Tokpelaia,Sodalis
+SACSP1	argF	Tokpelaia
+SACSP1	argG	Tokpelaia
+SACSP1	argH	Tokpelaia
+SACSP1	carA	Sodalis
+SACSP1	carB	Tokpelaia,Sodalis
+SACSP1	hisA	
+SACSP1	hisB	Tokpelaia
+SACSP1	hisC	Tokpelaia,Sodalis
+SACSP1	hisD	Tokpelaia
+SACSP1	hisE	Tokpelaia,Sodalis
+SACSP1	hisF	Tokpelaia
+SACSP1	hisG	Tokpelaia
+SACSP1	hisH	Tokpelaia
+SACSP1	hisI	Tokpelaia
+SACSP1	aroG	
+SACSP1	aroB	
+SACSP1	aroQ	
+SACSP1	aroE	
+SACSP1	aroK	Tokpelaia
+SACSP1	aroA	
+SACSP1	aroC	Tokpelaia
+SACSP1	pheA	
+SACSP1	aspC	Tokpelaia,Sodalis
+SACSP1	trpE	
+SACSP1	trpD	Tokpelaia
+SACSP1	trpG	
+SACSP1	trpF	
+SACSP1	trpC	Tokpelaia
+SACSP1	trpB	Tokpelaia
+SACSP1	trpA	
+SACSP1	ilvB	Tokpelaia
+SACSP1	ilvN	
+SACSP1	ilvC	Tokpelaia
+SACSP1	ilvD	Tokpelaia
+SACSP1	leuA	Tokpelaia
+SACSP1	leuC	Tokpelaia
+SACSP1	leuD	Tokpelaia
+SACSP1	leuB	Tokpelaia
+SACSP1	ilvE	Tokpelaia
+SACSP1	ilvA	
+SACSP1	ilvB	
+SACSP1	ilvN	Tokpelaia
+SACSP1	ilvC	Tokpelaia
+SACSP1	ilvD	Tokpelaia
+SACSP1	ilvE	Tokpelaia
+HYALUT	lysC	Wolbachia,Symbiodolus,Serratia
+HYALUT	asd	Wolbachia,Symbiodolus,Serratia
+HYALUT	thrA	Wolbachia,Symbiodolus,Serratia
+HYALUT	thrB	
+HYALUT	thrC	
+HYALUT	metA	
+HYALUT	metB	
+HYALUT	metC	Wolbachia
+HYALUT	metE	
+HYALUT	dapA	Wolbachia,Symbiodolus,Serratia
+HYALUT	dapB	Wolbachia,Symbiodolus,Serratia
+HYALUT	dapC	Wolbachia,Symbiodolus 
+HYALUT	dapD	Wolbachia,Symbiodolus,Serratia
+HYALUT	dapE	Wolbachia,Symbiodolus,Serratia
+HYALUT	dapF	Wolbachia,Symbiodolus,Serratia
+HYALUT	lysA	
+HYALUT	argA	
+HYALUT	argB	Wolbachia
+HYALUT	argC	Wolbachia
+HYALUT	argD	Wolbachia
+HYALUT	argE	Wolbachia,Symbiodolus,Serratia
+HYALUT	argF	Wolbachia,Symbiodolus,Serratia
+HYALUT	argG	
+HYALUT	argH	Wolbachia
+HYALUT	carA	Wolbachia,Symbiodolus,Serratia
+HYALUT	carB	Wolbachia,Symbiodolus,Serratia
+HYALUT	hisA	
+HYALUT	hisB	
+HYALUT	hisC	Wolbachia,Symbiodolus 
+HYALUT	hisD	
+HYALUT	hisE	
+HYALUT	hisF	
+HYALUT	hisG	
+HYALUT	hisH	
+HYALUT	hisI	
+HYALUT	aroG	Symbiodolus
+HYALUT	aroB	Symbiodolus
+HYALUT	aroQ	Symbiodolus
+HYALUT	aroE	Symbiodolus
+HYALUT	aroK	Symbiodolus,Serratia
+HYALUT	aroA	Symbiodolus
+HYALUT	aroC	Symbiodolus
+HYALUT	pheA	Symbiodolus
+HYALUT	aspC	Wolbachia,Symbiodolus
+HYALUT	trpE	
+HYALUT	trpD	
+HYALUT	trpG	
+HYALUT	trpF	
+HYALUT	trpC	
+HYALUT	trpB	
+HYALUT	trpA	
+HYALUT	ilvB	
+HYALUT	ilvN	
+HYALUT	ilvC	
+HYALUT	ilvD	
+HYALUT	leuA	
+HYALUT	leuC	
+HYALUT	leuD	
+HYALUT	leuB	
+HYALUT	ilvE	
+HYALUT	ilvA	
+HYALUT	ilvB	
+HYALUT	ilvN	
+HYALUT	ilvC	
+HYALUT	ilvD	
+HYALUT	ilvE	
+PENROR	lysC	Wolbachia
+PENROR	asd	Wolbachia
+PENROR	thrA	Wolbachia
+PENROR	thrB	
+PENROR	thrC	
+PENROR	metA	
+PENROR	metB	
+PENROR	metC	Wolbachia
+PENROR	metE	
+PENROR	dapA	Wolbachia
+PENROR	dapB	Wolbachia
+PENROR	dapC	Wolbachia
+PENROR	dapD	Wolbachia
+PENROR	dapE	Wolbachia
+PENROR	dapF	Wolbachia
+PENROR	lysA	
+PENROR	argA	
+PENROR	argB	Wolbachia
+PENROR	argC	Wolbachia
+PENROR	argD	Wolbachia
+PENROR	argE	Wolbachia
+PENROR	argF	Wolbachia
+PENROR	argG	
+PENROR	argH	Wolbachia
+PENROR	carA	Wolbachia
+PENROR	carB	Wolbachia
+PENROR	hisA	
+PENROR	hisB	
+PENROR	hisC	Wolbachia
+PENROR	hisD	
+PENROR	hisE	
+PENROR	hisF	
+PENROR	hisG	
+PENROR	hisH	
+PENROR	hisI	
+PENROR	aroG	
+PENROR	aroB	
+PENROR	aroQ	
+PENROR	aroE	
+PENROR	aroK	
+PENROR	aroA	
+PENROR	aroC	
+PENROR	pheA	
+PENROR	aspC	Wolbachia
+PENROR	trpE	
+PENROR	trpD	
+PENROR	trpG	
+PENROR	trpF	
+PENROR	trpC	
+PENROR	trpB	
+PENROR	trpA	
+PENROR	ilvB	
+PENROR	ilvN	
+PENROR	ilvC	
+PENROR	ilvD	
+PENROR	leuA	
+PENROR	leuC	
+PENROR	leuD	
+PENROR	leuB	
+PENROR	ilvE	
+PENROR	ilvA	
+PENROR	ilvB	
+PENROR	ilvN	
+PENROR	ilvC	
+PENROR	ilvD	
+PENROR	ilvE	
+MELPLA	lysC	Wolbachia
+MELPLA	asd	Wolbachia
+MELPLA	thrA	Wolbachia
+MELPLA	thrB	
+MELPLA	thrC	
+MELPLA	metA	
+MELPLA	metB	
+MELPLA	metC	Wolbachia
+MELPLA	metE	
+MELPLA	dapA	Wolbachia
+MELPLA	dapB	Wolbachia
+MELPLA	dapC	Wolbachia
+MELPLA	dapD	Wolbachia
+MELPLA	dapE	Wolbachia
+MELPLA	dapF	Wolbachia
+MELPLA	lysA	
+MELPLA	argA	
+MELPLA	argB	Wolbachia
+MELPLA	argC	Wolbachia
+MELPLA	argD	Wolbachia
+MELPLA	argE	Wolbachia
+MELPLA	argF	Wolbachia
+MELPLA	argG	
+MELPLA	argH	Wolbachia
+MELPLA	carA	
+MELPLA	carB	
+MELPLA	hisA	
+MELPLA	hisB	
+MELPLA	hisC	Wolbachia
+MELPLA	hisD	
+MELPLA	hisE	
+MELPLA	hisF	
+MELPLA	hisG	
+MELPLA	hisH	
+MELPLA	hisI	
+MELPLA	aroG	
+MELPLA	aroB	
+MELPLA	aroQ	
+MELPLA	aroE	
+MELPLA	aroK	
+MELPLA	aroA	
+MELPLA	aroC	
+MELPLA	pheA	
+MELPLA	aspC	
+MELPLA	trpE	
+MELPLA	trpD	
+MELPLA	trpG	
+MELPLA	trpF	
+MELPLA	trpC	
+MELPLA	trpB	
+MELPLA	trpA	
+MELPLA	ilvB	
+MELPLA	ilvN	
+MELPLA	ilvC	
+MELPLA	ilvD	
+MELPLA	leuA	
+MELPLA	leuC	
+MELPLA	leuD	
+MELPLA	leuB	
+MELPLA	ilvE	
+MELPLA	ilvA	
+MELPLA	ilvB	
+MELPLA	ilvN	
+MELPLA	ilvC	
+MELPLA	ilvD	
+MELPLA	ilvE	
+OECSP1	lysC	Wolbachia
+OECSP1	asd	Wolbachia
+OECSP1	thrA	Wolbachia
+OECSP1	thrB	
+OECSP1	thrC	
+OECSP1	metA	
+OECSP1	metB	
+OECSP1	metC	Wolbachia
+OECSP1	metE	
+OECSP1	dapA	Wolbachia
+OECSP1	dapB	Wolbachia
+OECSP1	dapC	Wolbachia
+OECSP1	dapD	Wolbachia
+OECSP1	dapE	Wolbachia
+OECSP1	dapF	Wolbachia
+OECSP1	lysA	
+OECSP1	argA	
+OECSP1	argB	Wolbachia
+OECSP1	argC	Wolbachia
+OECSP1	argD	Wolbachia
+OECSP1	argE	Wolbachia
+OECSP1	argF	Wolbachia
+OECSP1	argG	
+OECSP1	argH	Wolbachia
+OECSP1	carA	Wolbachia
+OECSP1	carB	Wolbachia
+OECSP1	hisA	
+OECSP1	hisB	
+OECSP1	hisC	Wolbachia
+OECSP1	hisD	
+OECSP1	hisE	
+OECSP1	hisF	
+OECSP1	hisG	
+OECSP1	hisH	
+OECSP1	hisI	
+OECSP1	aroG	
+OECSP1	aroB	
+OECSP1	aroQ	
+OECSP1	aroE	
+OECSP1	aroK	
+OECSP1	aroA	
+OECSP1	aroC	
+OECSP1	pheA	
+OECSP1	aspC	Wolbachia
+OECSP1	trpE	
+OECSP1	trpD	
+OECSP1	trpG	
+OECSP1	trpF	
+OECSP1	trpC	
+OECSP1	trpB	
+OECSP1	trpA	
+OECSP1	ilvB	
+OECSP1	ilvN	
+OECSP1	ilvC	
+OECSP1	ilvD	
+OECSP1	leuA	
+OECSP1	leuC	
+OECSP1	leuD	
+OECSP1	leuB	
+OECSP1	ilvE	
+OECSP1	ilvA	
+OECSP1	ilvB	
+OECSP1	ilvN	
+OECSP1	ilvC	
+OECSP1	ilvD	
+OECSP1	ilvE	
+QUISP	lysC	Wolbachia
+QUISP	asd	Wolbachia
+QUISP	thrA	Wolbachia
+QUISP	thrB	
+QUISP	thrC	
+QUISP	metA	
+QUISP	metB	
+QUISP	metC	Wolbachia
+QUISP	metE	
+QUISP	dapA	Wolbachia
+QUISP	dapB	Wolbachia
+QUISP	dapC	Wolbachia
+QUISP	dapD	Wolbachia
+QUISP	dapE	Wolbachia
+QUISP	dapF	Wolbachia
+QUISP	lysA	
+QUISP	argA	
+QUISP	argB	Wolbachia
+QUISP	argC	Wolbachia
+QUISP	argD	Wolbachia
+QUISP	argE	Wolbachia
+QUISP	argF	Wolbachia
+QUISP	argG	
+QUISP	argH	Wolbachia
+QUISP	carA	Wolbachia
+QUISP	carB	Wolbachia
+QUISP	hisA	
+QUISP	hisB	
+QUISP	hisC	Wolbachia
+QUISP	hisD	
+QUISP	hisE	
+QUISP	hisF	
+QUISP	hisG	
+QUISP	hisH	
+QUISP	hisI	
+QUISP	aroG	
+QUISP	aroB	
+QUISP	aroQ	
+QUISP	aroE	
+QUISP	aroK	
+QUISP	aroA	
+QUISP	aroC	
+QUISP	pheA	
+QUISP	aspC	Wolbachia
+QUISP	trpE	
+QUISP	trpD	
+QUISP	trpG	
+QUISP	trpF	
+QUISP	trpC	
+QUISP	trpB	
+QUISP	trpA	
+QUISP	ilvB	
+QUISP	ilvN	
+QUISP	ilvC	
+QUISP	ilvD	
+QUISP	leuA	
+QUISP	leuC	
+QUISP	leuD	
+QUISP	leuB	
+QUISP	ilvE	
+QUISP	ilvA	
+QUISP	ilvB	
+QUISP	ilvN	
+QUISP	ilvC	
+QUISP	ilvD	
+QUISP	ilvE	
+MEETHA	lysC	Arsenophonus
+MEETHA	asd	Arsenophonus
+MEETHA	thrA	Arsenophonus
+MEETHA	thrB	
+MEETHA	thrC	
+MEETHA	metA	
+MEETHA	metB	
+MEETHA	metC	
+MEETHA	metE	
+MEETHA	dapA	Arsenophonus
+MEETHA	dapB	Arsenophonus
+MEETHA	dapC	
+MEETHA	dapD	Arsenophonus
+MEETHA	dapE	
+MEETHA	dapF	Arsenophonus
+MEETHA	lysA	
+MEETHA	argA	
+MEETHA	argB	
+MEETHA	argC	
+MEETHA	argD	
+MEETHA	argE	
+MEETHA	argF	Arsenophonus
+MEETHA	argG	
+MEETHA	argH	
+MEETHA	carA	Arsenophonus
+MEETHA	carB	Arsenophonus
+MEETHA	hisA	
+MEETHA	hisB	
+MEETHA	hisC	
+MEETHA	hisD	
+MEETHA	hisE	
+MEETHA	hisF	
+MEETHA	hisG	
+MEETHA	hisH	
+MEETHA	hisI	
+MEETHA	aroG	
+MEETHA	aroB	
+MEETHA	aroQ	Arsenophonus
+MEETHA	aroE	
+MEETHA	aroK	Arsenophonus
+MEETHA	aroA	Arsenophonus
+MEETHA	aroC	
+MEETHA	pheA	
+MEETHA	aspC	
+MEETHA	trpE	
+MEETHA	trpD	
+MEETHA	trpG	
+MEETHA	trpF	
+MEETHA	trpC	
+MEETHA	trpB	
+MEETHA	trpA	
+MEETHA	ilvB	
+MEETHA	ilvN	
+MEETHA	ilvC	
+MEETHA	ilvD	
+MEETHA	leuA	
+MEETHA	leuC	
+MEETHA	leuD	
+MEETHA	leuB	
+MEETHA	ilvE	
+MEETHA	ilvA	
+MEETHA	ilvB	
+MEETHA	ilvN	
+MEETHA	ilvC	
+MEETHA	ilvD	
+MEETHA	ilvE	
+MEEALB	lysC	Wolbachia,Symbiopectobacterium
+MEEALB	asd	Symbiopectobacterium
+MEEALB	thrA	Symbiopectobacterium
+MEEALB	thrB	
+MEEALB	thrC	Symbiopectobacterium
+MEEALB	metA	Symbiopectobacterium
+MEEALB	metB	Symbiopectobacterium
+MEEALB	metC	Symbiopectobacterium
+MEEALB	metE	Symbiopectobacterium
+MEEALB	dapA	Wolbachia,Symbiopectobacterium
+MEEALB	dapB	Wolbachia,Symbiopectobacterium
+MEEALB	dapC	Wolbachia,Symbiopectobacterium
+MEEALB	dapD	Wolbachia,Symbiopectobacterium
+MEEALB	dapE	Wolbachia,Symbiopectobacterium
+MEEALB	dapF	Wolbachia,Symbiopectobacterium
+MEEALB	lysA	Symbiopectobacterium
+MEEALB	argA	
+MEEALB	argB	Wolbachia,Symbiopectobacterium
+MEEALB	argC	Wolbachia,Symbiopectobacterium
+MEEALB	argD	Wolbachia,Symbiopectobacterium
+MEEALB	argE	Wolbachia,Symbiopectobacterium
+MEEALB	argF	Wolbachia,Symbiopectobacterium
+MEEALB	argG	
+MEEALB	argH	Symbiopectobacterium
+MEEALB	carA	Symbiopectobacterium
+MEEALB	carB	Symbiopectobacterium
+MEEALB	hisA	
+MEEALB	hisB	Symbiopectobacterium
+MEEALB	hisC	Wolbachia,Symbiopectobacterium
+MEEALB	hisD	Symbiopectobacterium
+MEEALB	hisE	Symbiopectobacterium
+MEEALB	hisF	Symbiopectobacterium
+MEEALB	hisG	Symbiopectobacterium
+MEEALB	hisH	Symbiopectobacterium
+MEEALB	hisI	Symbiopectobacterium
+MEEALB	aroG	Symbiopectobacterium
+MEEALB	aroB	Symbiopectobacterium
+MEEALB	aroQ	
+MEEALB	aroE	Symbiopectobacterium
+MEEALB	aroK	Symbiopectobacterium
+MEEALB	aroA	Symbiopectobacterium
+MEEALB	aroC	Symbiopectobacterium
+MEEALB	pheA	Symbiopectobacterium
+MEEALB	aspC	
+MEEALB	trpE	Symbiopectobacterium
+MEEALB	trpD	
+MEEALB	trpG	
+MEEALB	trpF	
+MEEALB	trpC	
+MEEALB	trpB	Symbiopectobacterium
+MEEALB	trpA	Symbiopectobacterium
+MEEALB	ilvB	Symbiopectobacterium
+MEEALB	ilvN	Symbiopectobacterium
+MEEALB	ilvC	Symbiopectobacterium
+MEEALB	ilvD	Symbiopectobacterium
+MEEALB	leuA	Symbiopectobacterium
+MEEALB	leuC	Symbiopectobacterium
+MEEALB	leuD	Symbiopectobacterium
+MEEALB	leuB	Symbiopectobacterium
+MEEALB	ilvE	Symbiopectobacterium
+MEEALB	ilvA	
+MEEALB	ilvB	Symbiopectobacterium
+MEEALB	ilvN	Symbiopectobacterium
+MEEALB	ilvC	Symbiopectobacterium
+MEEALB	ilvD	Symbiopectobacterium
+MEEALB	ilvE	Symbiopectobacterium
+CIXPIL	lysC	Rickettsiella
+CIXPIL	asd	Wolbachia
+CIXPIL	thrA	Rickettsiella
+CIXPIL	thrB	
+CIXPIL	thrC	
+CIXPIL	metA	
+CIXPIL	metB	
+CIXPIL	metC	
+CIXPIL	metE	
+CIXPIL	dapA	Wolbachia,Rickettsiella
+CIXPIL	dapB	Rickettsiella
+CIXPIL	dapC	Rickettsiella
+CIXPIL	dapD	Rickettsiella
+CIXPIL	dapE	Wolbachia,Rickettsiella
+CIXPIL	dapF	
+CIXPIL	lysA	
+CIXPIL	argA	
+CIXPIL	argB	
+CIXPIL	argC	
+CIXPIL	argD	Wolbachia
+CIXPIL	argE	Wolbachia,Rickettsiella
+CIXPIL	argF	Wolbachia,Rickettsiella
+CIXPIL	argG	
+CIXPIL	argH	
+CIXPIL	carA	Wolbachia,Rickettsiella
+CIXPIL	carB	Rickettsiella
+CIXPIL	hisA	
+CIXPIL	hisB	
+CIXPIL	hisC	Rickettsiella,Rickettsiella
+CIXPIL	hisD	
+CIXPIL	hisE	
+CIXPIL	hisF	
+CIXPIL	hisG	
+CIXPIL	hisH	
+CIXPIL	hisI	
+CIXPIL	aroG	
+CIXPIL	aroB	
+CIXPIL	aroQ	
+CIXPIL	aroE	
+CIXPIL	aroK	
+CIXPIL	aroA	
+CIXPIL	aroC	Rickettsiella
+CIXPIL	pheA	
+CIXPIL	aspC	
+CIXPIL	trpE	
+CIXPIL	trpD	
+CIXPIL	trpG	
+CIXPIL	trpF	
+CIXPIL	trpC	
+CIXPIL	trpB	
+CIXPIL	trpA	Rickettsiella
+CIXPIL	ilvB	
+CIXPIL	ilvN	
+CIXPIL	ilvC	
+CIXPIL	ilvD	
+CIXPIL	leuA	
+CIXPIL	leuC	
+CIXPIL	leuD	
+CIXPIL	leuB	
+CIXPIL	ilvE	
+CIXPIL	ilvA	
+CIXPIL	ilvB	
+CIXPIL	ilvN	
+CIXPIL	ilvC	
+CIXPIL	ilvD	
+CIXPIL	ilvE	
+OMOUHL	lysC	Rickettsia
+OMOUHL	asd	Rickettsia
+OMOUHL	thrA	Rickettsia
+OMOUHL	thrB	
+OMOUHL	thrC	
+OMOUHL	metA	
+OMOUHL	metB	
+OMOUHL	metC	
+OMOUHL	metE	
+OMOUHL	dapA	Rickettsia
+OMOUHL	dapB	Rickettsia
+OMOUHL	dapC	Rickettsia
+OMOUHL	dapD	Rickettsia
+OMOUHL	dapE	Rickettsia
+OMOUHL	dapF	Rickettsia
+OMOUHL	lysA	
+OMOUHL	argA	
+OMOUHL	argB	Rickettsia
+OMOUHL	argC	Rickettsia
+OMOUHL	argD	
+OMOUHL	argE	Rickettsia
+OMOUHL	argF	
+OMOUHL	argG	
+OMOUHL	argH	
+OMOUHL	carA	
+OMOUHL	carB	
+OMOUHL	hisA	
+OMOUHL	hisB	
+OMOUHL	hisC	Rickettsia
+OMOUHL	hisD	
+OMOUHL	hisE	
+OMOUHL	hisF	
+OMOUHL	hisG	
+OMOUHL	hisH	
+OMOUHL	hisI	
+OMOUHL	aroG	
+OMOUHL	aroB	
+OMOUHL	aroQ	
+OMOUHL	aroE	
+OMOUHL	aroK	
+OMOUHL	aroA	
+OMOUHL	aroC	
+OMOUHL	pheA	
+OMOUHL	aspC	
+OMOUHL	trpE	
+OMOUHL	trpD	
+OMOUHL	trpG	
+OMOUHL	trpF	
+OMOUHL	trpC	
+OMOUHL	trpB	
+OMOUHL	trpA	
+OMOUHL	ilvB	
+OMOUHL	ilvN	
+OMOUHL	ilvC	
+OMOUHL	ilvD	
+OMOUHL	leuA	
+OMOUHL	leuC	
+OMOUHL	leuD	
+OMOUHL	leuB	
+OMOUHL	ilvE	Rickettsia
+OMOUHL	ilvA	Rickettsia
+OMOUHL	ilvB	
+OMOUHL	ilvN	
+OMOUHL	ilvC	
+OMOUHL	ilvD	
+OMOUHL	ilvE	Rickettsia
+PROSP	lysC	Tisiphia
+PROSP	asd	Tisiphia
+PROSP	thrA	Tisiphia
+PROSP	thrB	
+PROSP	thrC	
+PROSP	metA	
+PROSP	metB	
+PROSP	metC	
+PROSP	metE	
+PROSP	dapA	Tisiphia
+PROSP	dapB	Tisiphia
+PROSP	dapC	Tisiphia
+PROSP	dapD	Tisiphia
+PROSP	dapE	Tisiphia
+PROSP	dapF	Tisiphia
+PROSP	lysA	
+PROSP	argA	
+PROSP	argB	Tisiphia
+PROSP	argC	Tisiphia
+PROSP	argD	
+PROSP	argE	
+PROSP	argF	
+PROSP	argG	
+PROSP	argH	
+PROSP	carA	
+PROSP	carB	
+PROSP	hisA	
+PROSP	hisB	
+PROSP	hisC	Tisiphia
+PROSP	hisD	
+PROSP	hisE	
+PROSP	hisF	
+PROSP	hisG	
+PROSP	hisH	
+PROSP	hisI	
+PROSP	aroG	
+PROSP	aroB	
+PROSP	aroQ	
+PROSP	aroE	
+PROSP	aroK	
+PROSP	aroA	
+PROSP	aroC	
+PROSP	pheA	
+PROSP	aspC	Tisiphia
+PROSP	trpE	
+PROSP	trpD	
+PROSP	trpG	
+PROSP	trpF	
+PROSP	trpC	
+PROSP	trpB	
+PROSP	trpA	
+PROSP	ilvB	
+PROSP	ilvN	
+PROSP	ilvC	
+PROSP	ilvD	
+PROSP	leuA	
+PROSP	leuC	
+PROSP	leuD	
+PROSP	leuB	
+PROSP	ilvE	Tisiphia
+PROSP	ilvA	Tisiphia
+PROSP	ilvB	
+PROSP	ilvN	
+PROSP	ilvC	
+PROSP	ilvD	
+PROSP	ilvE	Tisiphia
+CEDSP1	lysC	Wolbachia
+CEDSP1	asd	Wolbachia
+CEDSP1	thrA	Wolbachia
+CEDSP1	thrB	
+CEDSP1	thrC	
+CEDSP1	metA	
+CEDSP1	metB	
+CEDSP1	metC	Wolbachia
+CEDSP1	metE	
+CEDSP1	dapA	Wolbachia
+CEDSP1	dapB	Wolbachia
+CEDSP1	dapC	Wolbachia
+CEDSP1	dapD	Wolbachia
+CEDSP1	dapE	Wolbachia
+CEDSP1	dapF	Wolbachia
+CEDSP1	lysA	
+CEDSP1	argA	
+CEDSP1	argB	Wolbachia
+CEDSP1	argC	Wolbachia
+CEDSP1	argD	Wolbachia
+CEDSP1	argE	Wolbachia
+CEDSP1	argF	Wolbachia
+CEDSP1	argG	
+CEDSP1	argH	Wolbachia
+CEDSP1	carA	Wolbachia
+CEDSP1	carB	Wolbachia
+CEDSP1	hisA	
+CEDSP1	hisB	
+CEDSP1	hisC	Wolbachia
+CEDSP1	hisD	
+CEDSP1	hisE	
+CEDSP1	hisF	
+CEDSP1	hisG	
+CEDSP1	hisH	
+CEDSP1	hisI	
+CEDSP1	aroG	
+CEDSP1	aroB	
+CEDSP1	aroQ	
+CEDSP1	aroE	
+CEDSP1	aroK	
+CEDSP1	aroA	
+CEDSP1	aroC	
+CEDSP1	pheA	
+CEDSP1	aspC	Wolbachia
+CEDSP1	trpE	
+CEDSP1	trpD	
+CEDSP1	trpG	
+CEDSP1	trpF	
+CEDSP1	trpC	
+CEDSP1	trpB	
+CEDSP1	trpA	
+CEDSP1	ilvB	
+CEDSP1	ilvN	
+CEDSP1	ilvC	
+CEDSP1	ilvD	
+CEDSP1	leuA	
+CEDSP1	leuC	
+CEDSP1	leuD	
+CEDSP1	leuB	
+CEDSP1	ilvE	
+CEDSP1	ilvA	
+CEDSP1	ilvB	
+CEDSP1	ilvN	
+CEDSP1	ilvC	
+CEDSP1	ilvD	
+CEDSP1	ilvE	
+MALBOS	lysC	Sphingomonas
+MALBOS	asd	Sphingomonas
+MALBOS	thrA	Sphingomonas
+MALBOS	thrB	Sphingomonas
+MALBOS	thrC	
+MALBOS	metA	Sphingomonas
+MALBOS	metB	Sphingomonas
+MALBOS	metC	Sphingomonas
+MALBOS	metE	Sphingomonas
+MALBOS	dapA	Sphingomonas
+MALBOS	dapB	Sphingomonas
+MALBOS	dapC	Sphingomonas
+MALBOS	dapD	Sphingomonas,Wolbachia
+MALBOS	dapE	Sphingomonas
+MALBOS	dapF	Sphingomonas,Wolbachia
+MALBOS	lysA	Sphingomonas
+MALBOS	argA	Sphingomonas
+MALBOS	argB	Sphingomonas,Wolbachia
+MALBOS	argC	Sphingomonas
+MALBOS	argD	Sphingomonas
+MALBOS	argE	
+MALBOS	argF	Sphingomonas
+MALBOS	argG	Sphingomonas
+MALBOS	argH	Sphingomonas,Wolbachia
+MALBOS	carA	Sphingomonas
+MALBOS	carB	Sphingomonas,Wolbachia
+MALBOS	hisA	
+MALBOS	hisB	
+MALBOS	hisC	Sphingomonas
+MALBOS	hisD	Sphingomonas
+MALBOS	hisE	Sphingomonas
+MALBOS	hisF	Sphingomonas
+MALBOS	hisG	Sphingomonas
+MALBOS	hisH	Sphingomonas
+MALBOS	hisI	Sphingomonas
+MALBOS	aroG	
+MALBOS	aroB	Sphingomonas
+MALBOS	aroQ	Sphingomonas
+MALBOS	aroE	Sphingomonas
+MALBOS	aroK	Sphingomonas
+MALBOS	aroA	
+MALBOS	aroC	Sphingomonas
+MALBOS	pheA	Sphingomonas
+MALBOS	aspC	Wolbachia
+MALBOS	trpE	Sphingomonas
+MALBOS	trpD	Sphingomonas
+MALBOS	trpG	Sphingomonas
+MALBOS	trpF	Sphingomonas
+MALBOS	trpC	Sphingomonas
+MALBOS	trpB	Sphingomonas
+MALBOS	trpA	Sphingomonas
+MALBOS	ilvB	Sphingomonas
+MALBOS	ilvN	Sphingomonas
+MALBOS	ilvC	Sphingomonas
+MALBOS	ilvD	Sphingomonas
+MALBOS	leuA	Sphingomonas
+MALBOS	leuC	Sphingomonas
+MALBOS	leuD	Sphingomonas
+MALBOS	leuB	Sphingomonas
+MALBOS	ilvE	Sphingomonas
+MALBOS	ilvA	Sphingomonas
+MALBOS	ilvB	Sphingomonas
+MALBOS	ilvN	Sphingomonas
+MALBOS	ilvC	Sphingomonas
+MALBOS	ilvD	Sphingomonas
+MALBOS	ilvE	Sphingomonas
+PYRCLA	lysC	Arsenophonus
+PYRCLA	asd	Arsenophonus
+PYRCLA	thrA	Arsenophonus
+PYRCLA	thrB	Arsenophonus
+PYRCLA	thrC	
+PYRCLA	metA	
+PYRCLA	metB	
+PYRCLA	metC	
+PYRCLA	metE	
+PYRCLA	dapA	Arsenophonus
+PYRCLA	dapB	Arsenophonus
+PYRCLA	dapC	
+PYRCLA	dapD	Arsenophonus
+PYRCLA	dapE	Arsenophonus
+PYRCLA	dapF	Arsenophonus
+PYRCLA	lysA	
+PYRCLA	argA	
+PYRCLA	argB	
+PYRCLA	argC	
+PYRCLA	argD	
+PYRCLA	argE	Arsenophonus
+PYRCLA	argF	Arsenophonus
+PYRCLA	argG	
+PYRCLA	argH	Arsenophonus
+PYRCLA	carA	Arsenophonus
+PYRCLA	carB	Arsenophonus
+PYRCLA	hisA	
+PYRCLA	hisB	
+PYRCLA	hisC	
+PYRCLA	hisD	
+PYRCLA	hisE	
+PYRCLA	hisF	
+PYRCLA	hisG	
+PYRCLA	hisH	Arsenophonus
+PYRCLA	hisI	
+PYRCLA	aroG	Arsenophonus
+PYRCLA	aroB	Arsenophonus
+PYRCLA	aroQ	Arsenophonus
+PYRCLA	aroE	Arsenophonus
+PYRCLA	aroK	Arsenophonus
+PYRCLA	aroA	
+PYRCLA	aroC	Arsenophonus
+PYRCLA	pheA	
+PYRCLA	aspC	Arsenophonus
+PYRCLA	trpE	
+PYRCLA	trpD	
+PYRCLA	trpG	
+PYRCLA	trpF	
+PYRCLA	trpC	
+PYRCLA	trpB	
+PYRCLA	trpA	
+PYRCLA	ilvB	
+PYRCLA	ilvN	
+PYRCLA	ilvC	
+PYRCLA	ilvD	
+PYRCLA	leuA	
+PYRCLA	leuC	
+PYRCLA	leuD	
+PYRCLA	leuB	
+PYRCLA	ilvE	
+PYRCLA	ilvA	
+PYRCLA	ilvB	
+PYRCLA	ilvN	
+PYRCLA	ilvC	
+PYRCLA	ilvD	
+PYRCLA	ilvE	
+PYRVIR	lysC	Sodalis
+PYRVIR	asd	Sodalis
+PYRVIR	thrA	Sodalis
+PYRVIR	thrB	
+PYRVIR	thrC	
+PYRVIR	metA	
+PYRVIR	metB	
+PYRVIR	metC	
+PYRVIR	metE	
+PYRVIR	dapA	Sodalis
+PYRVIR	dapB	Sodalis
+PYRVIR	dapC	
+PYRVIR	dapD	Sodalis
+PYRVIR	dapE	Sodalis
+PYRVIR	dapF	
+PYRVIR	lysA	
+PYRVIR	argA	
+PYRVIR	argB	
+PYRVIR	argC	
+PYRVIR	argD	
+PYRVIR	argE	Sodalis
+PYRVIR	argF	
+PYRVIR	argG	
+PYRVIR	argH	
+PYRVIR	carA	
+PYRVIR	carB	
+PYRVIR	hisA	
+PYRVIR	hisB	
+PYRVIR	hisC	
+PYRVIR	hisD	
+PYRVIR	hisE	
+PYRVIR	hisF	
+PYRVIR	hisG	
+PYRVIR	hisH	
+PYRVIR	hisI	
+PYRVIR	aroG	Sodalis
+PYRVIR	aroB	Sodalis
+PYRVIR	aroQ	Sodalis
+PYRVIR	aroE	Sodalis
+PYRVIR	aroK	Sodalis
+PYRVIR	aroA	
+PYRVIR	aroC	Sodalis
+PYRVIR	pheA	
+PYRVIR	aspC	Sodalis
+PYRVIR	trpE	
+PYRVIR	trpD	
+PYRVIR	trpG	
+PYRVIR	trpF	
+PYRVIR	trpC	
+PYRVIR	trpB	
+PYRVIR	trpA	
+PYRVIR	ilvB	
+PYRVIR	ilvN	
+PYRVIR	ilvC	
+PYRVIR	ilvD	
+PYRVIR	leuA	
+PYRVIR	leuC	
+PYRVIR	leuD	
+PYRVIR	leuB	
+PYRVIR	ilvE	
+PYRVIR	ilvA	
+PYRVIR	ilvB	
+PYRVIR	ilvN	
+PYRVIR	ilvC	
+PYRVIR	ilvD	
+PYRVIR	ilvE	
+PYRLAN	lysC	Sodalis
+PYRLAN	asd	Sodalis
+PYRLAN	thrA	Sodalis
+PYRLAN	thrB	
+PYRLAN	thrC	
+PYRLAN	metA	
+PYRLAN	metB	
+PYRLAN	metC	
+PYRLAN	metE	
+PYRLAN	dapA	Sodalis
+PYRLAN	dapB	Sodalis
+PYRLAN	dapC	
+PYRLAN	dapD	Sodalis
+PYRLAN	dapE	Sodalis
+PYRLAN	dapF	Sodalis
+PYRLAN	lysA	
+PYRLAN	argA	
+PYRLAN	argB	
+PYRLAN	argC	
+PYRLAN	argD	
+PYRLAN	argE	Sodalis
+PYRLAN	argF	
+PYRLAN	argG	
+PYRLAN	argH	
+PYRLAN	carA	
+PYRLAN	carB	
+PYRLAN	hisA	
+PYRLAN	hisB	
+PYRLAN	hisC	
+PYRLAN	hisD	
+PYRLAN	hisE	
+PYRLAN	hisF	
+PYRLAN	hisG	
+PYRLAN	hisH	
+PYRLAN	hisI	
+PYRLAN	aroG	Sodalis
+PYRLAN	aroB	Sodalis
+PYRLAN	aroQ	Sodalis
+PYRLAN	aroE	Sodalis
+PYRLAN	aroK	Sodalis
+PYRLAN	aroA	
+PYRLAN	aroC	Sodalis
+PYRLAN	pheA	
+PYRLAN	aspC	Sodalis
+PYRLAN	trpE	
+PYRLAN	trpD	
+PYRLAN	trpG	
+PYRLAN	trpF	
+PYRLAN	trpC	
+PYRLAN	trpB	
+PYRLAN	trpA	
+PYRLAN	ilvB	
+PYRLAN	ilvN	
+PYRLAN	ilvC	
+PYRLAN	ilvD	
+PYRLAN	leuA	
+PYRLAN	leuC	
+PYRLAN	leuD	
+PYRLAN	leuB	
+PYRLAN	ilvE	
+PYRLAN	ilvA	
+PYRLAN	ilvB	
+PYRLAN	ilvN	
+PYRLAN	ilvC	
+PYRLAN	ilvD	
+PYRLAN	ilvE	
+LYNSP	lysC	Rhodanobacter,Tokpelaia
+LYNSP	asd	Rhodanobacter,Tokpelaia
+LYNSP	thrA	Rhodanobacter
+LYNSP	thrB	
+LYNSP	thrC	Rhodanobacter
+LYNSP	metA	Rhodanobacter
+LYNSP	metB	Rhodanobacter
+LYNSP	metC	Rhodanobacter
+LYNSP	metE	Rhodanobacter
+LYNSP	dapA	Rhodanobacter,Tokpelaia
+LYNSP	dapB	Rhodanobacter,Tokpelaia
+LYNSP	dapC	Rhodanobacter,Tokpelaia
+LYNSP	dapD	Rhodanobacter,Tokpelaia
+LYNSP	dapE	Rhodanobacter,Tokpelaia
+LYNSP	dapF	Rhodanobacter,Tokpelaia
+LYNSP	lysA	Rhodanobacter
+LYNSP	argA	
+LYNSP	argB	Rhodanobacter
+LYNSP	argC	Rhodanobacter,Tokpelaia
+LYNSP	argD	Rhodanobacter
+LYNSP	argE	Rhodanobacter,Tokpelaia
+LYNSP	argF	Rhodanobacter
+LYNSP	argG	Rhodanobacter
+LYNSP	argH	Rhodanobacter,Tokpelaia
+LYNSP	carA	Rhodanobacter,Tokpelaia
+LYNSP	carB	Rhodanobacter,Tokpelaia
+LYNSP	hisA	
+LYNSP	hisB	Rhodanobacter
+LYNSP	hisC	Rhodanobacter,Tokpelaia
+LYNSP	hisD	Rhodanobacter
+LYNSP	hisE	Rhodanobacter
+LYNSP	hisF	Rhodanobacter
+LYNSP	hisG	Rhodanobacter
+LYNSP	hisH	Rhodanobacter
+LYNSP	hisI	Rhodanobacter
+LYNSP	aroG	Rhodanobacter
+LYNSP	aroB	Rhodanobacter
+LYNSP	aroQ	Rhodanobacter
+LYNSP	aroE	Rhodanobacter
+LYNSP	aroK	Rhodanobacter
+LYNSP	aroA	Rhodanobacter
+LYNSP	aroC	Rhodanobacter
+LYNSP	pheA	Rhodanobacter
+LYNSP	aspC	Rhodanobacter
+LYNSP	trpE	Rhodanobacter
+LYNSP	trpD	Rhodanobacter
+LYNSP	trpG	Rhodanobacter
+LYNSP	trpF	Rhodanobacter
+LYNSP	trpC	Rhodanobacter
+LYNSP	trpB	Rhodanobacter
+LYNSP	trpA	Rhodanobacter
+LYNSP	ilvB	Rhodanobacter
+LYNSP	ilvN	Rhodanobacter
+LYNSP	ilvC	Rhodanobacter
+LYNSP	ilvD	Rhodanobacter
+LYNSP	leuA	Rhodanobacter
+LYNSP	leuC	Rhodanobacter
+LYNSP	leuD	Rhodanobacter
+LYNSP	leuB	Rhodanobacter
+LYNSP	ilvE	Rhodanobacter
+LYNSP	ilvA	Rhodanobacter
+LYNSP	ilvB	Rhodanobacter
+LYNSP	ilvN	Rhodanobacter
+LYNSP	ilvC	Rhodanobacter
+LYNSP	ilvD	Rhodanobacter
+LYNSP	ilvE	Rhodanobacter
+DICMUL	lysC	Sodalis
+DICMUL	asd	Sodalis
+DICMUL	thrA	Sodalis
+DICMUL	thrB	
+DICMUL	thrC	
+DICMUL	metA	
+DICMUL	metB	
+DICMUL	metC	Sodalis
+DICMUL	metE	
+DICMUL	dapA	Sodalis
+DICMUL	dapB	Sodalis
+DICMUL	dapC	
+DICMUL	dapD	Sodalis
+DICMUL	dapE	Sodalis
+DICMUL	dapF	Sodalis
+DICMUL	lysA	
+DICMUL	argA	
+DICMUL	argB	
+DICMUL	argC	
+DICMUL	argD	
+DICMUL	argE	Sodalis
+DICMUL	argF	Sodalis
+DICMUL	argG	
+DICMUL	argH	
+DICMUL	carA	Sodalis
+DICMUL	carB	Sodalis
+DICMUL	hisA	
+DICMUL	hisB	
+DICMUL	hisC	
+DICMUL	hisD	
+DICMUL	hisE	
+DICMUL	hisF	
+DICMUL	hisG	
+DICMUL	hisH	
+DICMUL	hisI	
+DICMUL	aroG	
+DICMUL	aroB	
+DICMUL	aroQ	Sodalis
+DICMUL	aroE	
+DICMUL	aroK	Sodalis
+DICMUL	aroA	
+DICMUL	aroC	
+DICMUL	pheA	
+DICMUL	aspC	Sodalis
+DICMUL	trpE	
+DICMUL	trpD	
+DICMUL	trpG	
+DICMUL	trpF	
+DICMUL	trpC	
+DICMUL	trpB	
+DICMUL	trpA	
+DICMUL	ilvB	
+DICMUL	ilvN	
+DICMUL	ilvC	
+DICMUL	ilvD	
+DICMUL	leuA	
+DICMUL	leuC	
+DICMUL	leuD	
+DICMUL	leuB	
+DICMUL	ilvE	
+DICMUL	ilvA	
+DICMUL	ilvB	
+DICMUL	ilvN	
+DICMUL	ilvC	
+DICMUL	ilvD	
+DICMUL	ilvE	
+CALKRU	lysC	Sodalis,Wolbachia
+CALKRU	asd	Sodalis
+CALKRU	thrA	Sodalis,Wolbachia
+CALKRU	thrB	
+CALKRU	thrC	Sodalis
+CALKRU	metA	
+CALKRU	metB	Sodalis
+CALKRU	metC	Wolbachia
+CALKRU	metE	
+CALKRU	dapA	Sodalis,Wolbachia
+CALKRU	dapB	Sodalis,Wolbachia
+CALKRU	dapC	Sodalis,Wolbachia
+CALKRU	dapD	Sodalis,Wolbachia
+CALKRU	dapE	Sodalis
+CALKRU	dapF	Sodalis,Wolbachia
+CALKRU	lysA	
+CALKRU	argA	Sodalis
+CALKRU	argB	Wolbachia
+CALKRU	argC	Wolbachia
+CALKRU	argD	Sodalis,Wolbachia
+CALKRU	argE	Sodalis
+CALKRU	argF	Wolbachia
+CALKRU	argG	
+CALKRU	argH	Wolbachia
+CALKRU	carA	Wolbachia
+CALKRU	carB	Sodalis,Wolbachia
+CALKRU	hisA	
+CALKRU	hisB	Sodalis
+CALKRU	hisC	Sodalis,Wolbachia
+CALKRU	hisD	Sodalis
+CALKRU	hisE	
+CALKRU	hisF	Sodalis
+CALKRU	hisG	
+CALKRU	hisH	Sodalis
+CALKRU	hisI	
+CALKRU	aroG	
+CALKRU	aroB	
+CALKRU	aroQ	Sodalis
+CALKRU	aroE	Sodalis
+CALKRU	aroK	Sodalis
+CALKRU	aroA	
+CALKRU	aroC	
+CALKRU	pheA	Sodalis
+CALKRU	aspC	Sodalis,Wolbachia
+CALKRU	trpE	
+CALKRU	trpD	
+CALKRU	trpG	
+CALKRU	trpF	
+CALKRU	trpC	
+CALKRU	trpB	
+CALKRU	trpA	
+CALKRU	ilvB	
+CALKRU	ilvN	
+CALKRU	ilvC	
+CALKRU	ilvD	
+CALKRU	leuA	Sodalis
+CALKRU	leuC	
+CALKRU	leuD	
+CALKRU	leuB	
+CALKRU	ilvE	
+CALKRU	ilvA	
+CALKRU	ilvB	
+CALKRU	ilvN	
+CALKRU	ilvC	
+CALKRU	ilvD	
+CALKRU	ilvE	
+DICPAN5	lysC	
+DICPAN5	asd	
+DICPAN5	thrA	
+DICPAN5	thrB	
+DICPAN5	thrC	
+DICPAN5	metA	
+DICPAN5	metB	
+DICPAN5	metC	
+DICPAN5	metE	
+DICPAN5	dapA	
+DICPAN5	dapB	
+DICPAN5	dapC	
+DICPAN5	dapD	
+DICPAN5	dapE	
+DICPAN5	dapF	Sodalis
+DICPAN5	lysA	
+DICPAN5	argA	
+DICPAN5	argB	
+DICPAN5	argC	
+DICPAN5	argD	
+DICPAN5	argE	
+DICPAN5	argF	
+DICPAN5	argG	
+DICPAN5	argH	
+DICPAN5	carA	
+DICPAN5	carB	
+DICPAN5	hisA	
+DICPAN5	hisB	
+DICPAN5	hisC	
+DICPAN5	hisD	
+DICPAN5	hisE	
+DICPAN5	hisF	
+DICPAN5	hisG	
+DICPAN5	hisH	
+DICPAN5	hisI	
+DICPAN5	aroG	
+DICPAN5	aroB	Sodalis
+DICPAN5	aroQ	Sodalis
+DICPAN5	aroE	
+DICPAN5	aroK	Sodalis
+DICPAN5	aroA	
+DICPAN5	aroC	
+DICPAN5	pheA	
+DICPAN5	aspC	Sodalis
+DICPAN5	trpE	
+DICPAN5	trpD	
+DICPAN5	trpG	
+DICPAN5	trpF	
+DICPAN5	trpC	
+DICPAN5	trpB	
+DICPAN5	trpA	
+DICPAN5	ilvB	
+DICPAN5	ilvN	
+DICPAN5	ilvC	
+DICPAN5	ilvD	
+DICPAN5	leuA	
+DICPAN5	leuC	
+DICPAN5	leuD	
+DICPAN5	leuB	
+DICPAN5	ilvE	
+DICPAN5	ilvA	
+DICPAN5	ilvB	
+DICPAN5	ilvN	
+DICPAN5	ilvC	
+DICPAN5	ilvD	
+DICPAN5	ilvE	
+DICEUR	lysC	Wolbachia
+DICEUR	asd	Wolbachia
+DICEUR	thrA	Wolbachia
+DICEUR	thrB	
+DICEUR	thrC	
+DICEUR	metA	
+DICEUR	metB	
+DICEUR	metC	Wolbachia
+DICEUR	metE	
+DICEUR	dapA	Wolbachia,Arsenophonus
+DICEUR	dapB	Wolbachia,Arsenophonus
+DICEUR	dapC	Wolbachia
+DICEUR	dapD	Wolbachia
+DICEUR	dapE	Wolbachia
+DICEUR	dapF	Wolbachia,Arsenophonus
+DICEUR	lysA	
+DICEUR	argA	
+DICEUR	argB	Wolbachia
+DICEUR	argC	Wolbachia
+DICEUR	argD	Wolbachia
+DICEUR	argE	Wolbachia
+DICEUR	argF	Wolbachia
+DICEUR	argG	
+DICEUR	argH	Wolbachia
+DICEUR	carA	Wolbachia,Arsenophonus
+DICEUR	carB	Wolbachia,Arsenophonus
+DICEUR	hisA	
+DICEUR	hisB	
+DICEUR	hisC	Wolbachia
+DICEUR	hisD	
+DICEUR	hisE	
+DICEUR	hisF	
+DICEUR	hisG	
+DICEUR	hisH	
+DICEUR	hisI	
+DICEUR	aroG	Arsenophonus
+DICEUR	aroB	Arsenophonus
+DICEUR	aroQ	Arsenophonus
+DICEUR	aroE	Arsenophonus
+DICEUR	aroK	Arsenophonus
+DICEUR	aroA	Arsenophonus
+DICEUR	aroC	Arsenophonus
+DICEUR	pheA	Arsenophonus
+DICEUR	aspC	Arsenophonus,Wolbachia
+DICEUR	trpE	
+DICEUR	trpD	
+DICEUR	trpG	
+DICEUR	trpF	
+DICEUR	trpC	
+DICEUR	trpB	
+DICEUR	trpA	
+DICEUR	ilvB	
+DICEUR	ilvN	
+DICEUR	ilvC	
+DICEUR	ilvD	
+DICEUR	leuA	
+DICEUR	leuC	
+DICEUR	leuD	
+DICEUR	leuB	
+DICEUR	ilvE	Arsenophonus
+DICEUR	ilvA	
+DICEUR	ilvB	
+DICEUR	ilvN	
+DICEUR	ilvC	
+DICEUR	ilvD	
+DICEUR	ilvE	Arsenophonus
+DESRAP	lysC	Sodalis
+DESRAP	asd	Sodalis
+DESRAP	thrA	Sodalis
+DESRAP	thrB	
+DESRAP	thrC	
+DESRAP	metA	
+DESRAP	metB	
+DESRAP	metC	
+DESRAP	metE	
+DESRAP	dapA	Sodalis
+DESRAP	dapB	Sodalis
+DESRAP	dapC	
+DESRAP	dapD	Sodalis
+DESRAP	dapE	Sodalis
+DESRAP	dapF	Sodalis
+DESRAP	lysA	
+DESRAP	argA	
+DESRAP	argB	
+DESRAP	argC	
+DESRAP	argD	
+DESRAP	argE	Sodalis
+DESRAP	argF	Sodalis
+DESRAP	argG	
+DESRAP	argH	Sodalis
+DESRAP	carA	Sodalis
+DESRAP	carB	Sodalis
+DESRAP	hisA	
+DESRAP	hisB	Sodalis
+DESRAP	hisC	
+DESRAP	hisD	
+DESRAP	hisE	
+DESRAP	hisF	
+DESRAP	hisG	
+DESRAP	hisH	
+DESRAP	hisI	
+DESRAP	aroG	
+DESRAP	aroB	
+DESRAP	aroQ	Sodalis
+DESRAP	aroE	Sodalis
+DESRAP	aroK	
+DESRAP	aroA	
+DESRAP	aroC	
+DESRAP	pheA	
+DESRAP	aspC	Sodalis
+DESRAP	trpE	
+DESRAP	trpD	
+DESRAP	trpG	
+DESRAP	trpF	
+DESRAP	trpC	
+DESRAP	trpB	
+DESRAP	trpA	
+DESRAP	ilvB	
+DESRAP	ilvN	
+DESRAP	ilvC	
+DESRAP	ilvD	
+DESRAP	leuA	
+DESRAP	leuC	
+DESRAP	leuD	
+DESRAP	leuB	
+DESRAP	ilvE	
+DESRAP	ilvA	
+DESRAP	ilvB	
+DESRAP	ilvN	
+DESRAP	ilvC	
+DESRAP	ilvD	
+DESRAP	ilvE	
+ORGSP	lysC	Sodalis
+ORGSP	asd	Sodalis
+ORGSP	thrA	Sodalis
+ORGSP	thrB	
+ORGSP	thrC	
+ORGSP	metA	
+ORGSP	metB	
+ORGSP	metC	
+ORGSP	metE	
+ORGSP	dapA	Sodalis
+ORGSP	dapB	Sodalis
+ORGSP	dapC	
+ORGSP	dapD	Sodalis
+ORGSP	dapE	Sodalis
+ORGSP	dapF	Sodalis
+ORGSP	lysA	
+ORGSP	argA	
+ORGSP	argB	
+ORGSP	argC	
+ORGSP	argD	
+ORGSP	argE	Sodalis
+ORGSP	argF	Sodalis
+ORGSP	argG	
+ORGSP	argH	Sodalis
+ORGSP	carA	Sodalis
+ORGSP	carB	Sodalis
+ORGSP	hisA	
+ORGSP	hisB	Sodalis
+ORGSP	hisC	
+ORGSP	hisD	
+ORGSP	hisE	
+ORGSP	hisF	
+ORGSP	hisG	
+ORGSP	hisH	
+ORGSP	hisI	
+ORGSP	aroG	
+ORGSP	aroB	
+ORGSP	aroQ	Sodalis
+ORGSP	aroE	
+ORGSP	aroK	Sodalis
+ORGSP	aroA	
+ORGSP	aroC	
+ORGSP	pheA	
+ORGSP	aspC	Sodalis
+ORGSP	trpE	
+ORGSP	trpD	
+ORGSP	trpG	
+ORGSP	trpF	
+ORGSP	trpC	
+ORGSP	trpB	
+ORGSP	trpA	
+ORGSP	ilvB	
+ORGSP	ilvN	
+ORGSP	ilvC	
+ORGSP	ilvD	
+ORGSP	leuA	
+ORGSP	leuC	
+ORGSP	leuD	
+ORGSP	leuB	
+ORGSP	ilvE	
+ORGSP	ilvA	
+ORGSP	ilvB	
+ORGSP	ilvN	
+ORGSP	ilvC	
+ORGSP	ilvD	
+ORGSP	ilvE	
+RANSCY	lysC	
+RANSCY	asd	
+RANSCY	thrA	Arsenophonus
+RANSCY	thrB	
+RANSCY	thrC	
+RANSCY	metA	
+RANSCY	metB	
+RANSCY	metC	
+RANSCY	metE	
+RANSCY	dapA	Arsenophonus
+RANSCY	dapB	
+RANSCY	dapC	
+RANSCY	dapD	
+RANSCY	dapE	
+RANSCY	dapF	Arsenophonus
+RANSCY	lysA	
+RANSCY	argA	
+RANSCY	argB	
+RANSCY	argC	
+RANSCY	argD	
+RANSCY	argE	
+RANSCY	argF	
+RANSCY	argG	
+RANSCY	argH	
+RANSCY	carA	
+RANSCY	carB	Arsenophonus
+RANSCY	hisA	
+RANSCY	hisB	
+RANSCY	hisC	
+RANSCY	hisD	
+RANSCY	hisE	
+RANSCY	hisF	
+RANSCY	hisG	
+RANSCY	hisH	
+RANSCY	hisI	
+RANSCY	aroG	Arsenophonus
+RANSCY	aroB	Arsenophonus
+RANSCY	aroQ	Arsenophonus
+RANSCY	aroE	Arsenophonus
+RANSCY	aroK	Arsenophonus
+RANSCY	aroA	
+RANSCY	aroC	Arsenophonus
+RANSCY	pheA	
+RANSCY	aspC	Arsenophonus
+RANSCY	trpE	
+RANSCY	trpD	
+RANSCY	trpG	
+RANSCY	trpF	
+RANSCY	trpC	
+RANSCY	trpB	
+RANSCY	trpA	Arsenophonus
+RANSCY	ilvB	
+RANSCY	ilvN	
+RANSCY	ilvC	
+RANSCY	ilvD	
+RANSCY	leuA	
+RANSCY	leuC	
+RANSCY	leuD	
+RANSCY	leuB	
+RANSCY	ilvE	
+RANSCY	ilvA	
+RANSCY	ilvB	
+RANSCY	ilvN	
+RANSCY	ilvC	
+RANSCY	ilvD	
+RANSCY	ilvE	
+IND2	lysC	Arsenophonus,Wolbachia
+IND2	asd	Arsenophonus,Wolbachia
+IND2	thrA	Arsenophonus
+IND2	thrB	
+IND2	thrC	Arsenophonus
+IND2	metA	
+IND2	metB	Arsenophonus
+IND2	metC	Arsenophonus
+IND2	metE	
+IND2	dapA	Arsenophonus,Wolbachia
+IND2	dapB	Arsenophonus,Wolbachia
+IND2	dapC	Arsenophonus,Wolbachia
+IND2	dapD	Arsenophonus,Wolbachia
+IND2	dapE	Arsenophonus,Wolbachia
+IND2	dapF	Arsenophonus,Wolbachia
+IND2	lysA	
+IND2	argA	Arsenophonus
+IND2	argB	Wolbachia
+IND2	argC	Wolbachia
+IND2	argD	Wolbachia
+IND2	argE	Arsenophonus,Wolbachia
+IND2	argF	Arsenophonus,Wolbachia
+IND2	argG	
+IND2	argH	Arsenophonus,Wolbachia
+IND2	carA	Arsenophonus,Wolbachia
+IND2	carB	Arsenophonus,Wolbachia
+IND2	hisA	
+IND2	hisB	
+IND2	hisC	Arsenophonus,Wolbachia
+IND2	hisD	
+IND2	hisE	
+IND2	hisF	Arsenophonus
+IND2	hisG	
+IND2	hisH	Arsenophonus
+IND2	hisI	
+IND2	aroG	Arsenophonus
+IND2	aroB	Arsenophonus
+IND2	aroQ	Arsenophonus
+IND2	aroE	Arsenophonus
+IND2	aroK	Arsenophonus
+IND2	aroA	Arsenophonus
+IND2	aroC	
+IND2	pheA	Arsenophonus
+IND2	aspC	Arsenophonus,Wolbachia
+IND2	trpE	Arsenophonus
+IND2	trpD	Arsenophonus
+IND2	trpG	Arsenophonus
+IND2	trpF	Arsenophonus
+IND2	trpC	Arsenophonus
+IND2	trpB	Arsenophonus
+IND2	trpA	Arsenophonus
+IND2	ilvB	Arsenophonus
+IND2	ilvN	
+IND2	ilvC	Arsenophonus
+IND2	ilvD	Arsenophonus
+IND2	leuA	
+IND2	leuC	Arsenophonus
+IND2	leuD	Arsenophonus
+IND2	leuB	
+IND2	ilvE	
+IND2	ilvA	Arsenophonus
+IND2	ilvB	Arsenophonus
+IND2	ilvN	
+IND2	ilvC	Arsenophonus
+IND2	ilvD	Arsenophonus
+IND2	ilvE	
+TRYOCC	lysC	Kirkpatrickella
+TRYOCC	asd	Kirkpatrickella
+TRYOCC	thrA	Kirkpatrickella
+TRYOCC	thrB	Kirkpatrickella
+TRYOCC	thrC	Kirkpatrickella
+TRYOCC	metA	
+TRYOCC	metB	
+TRYOCC	metC	Kirkpatrickella
+TRYOCC	metE	Kirkpatrickella
+TRYOCC	dapA	Kirkpatrickella
+TRYOCC	dapB	Kirkpatrickella
+TRYOCC	dapC	Kirkpatrickella
+TRYOCC	dapD	Kirkpatrickella
+TRYOCC	dapE	Kirkpatrickella
+TRYOCC	dapF	Kirkpatrickella
+TRYOCC	lysA	Kirkpatrickella
+TRYOCC	argA	Kirkpatrickella
+TRYOCC	argB	Kirkpatrickella
+TRYOCC	argC	Kirkpatrickella
+TRYOCC	argD	Kirkpatrickella
+TRYOCC	argE	Kirkpatrickella
+TRYOCC	argF	Kirkpatrickella
+TRYOCC	argG	Kirkpatrickella
+TRYOCC	argH	Kirkpatrickella
+TRYOCC	carA	Kirkpatrickella
+TRYOCC	carB	Kirkpatrickella
+TRYOCC	hisA	Kirkpatrickella
+TRYOCC	hisB	Kirkpatrickella
+TRYOCC	hisC	Kirkpatrickella
+TRYOCC	hisD	Kirkpatrickella
+TRYOCC	hisE	Kirkpatrickella
+TRYOCC	hisF	Kirkpatrickella
+TRYOCC	hisG	Kirkpatrickella
+TRYOCC	hisH	Kirkpatrickella
+TRYOCC	hisI	Kirkpatrickella
+TRYOCC	aroG	Kirkpatrickella
+TRYOCC	aroB	Kirkpatrickella
+TRYOCC	aroQ	Kirkpatrickella
+TRYOCC	aroE	Kirkpatrickella
+TRYOCC	aroK	Kirkpatrickella
+TRYOCC	aroA	Kirkpatrickella
+TRYOCC	aroC	Kirkpatrickella
+TRYOCC	pheA	Kirkpatrickella
+TRYOCC	aspC	Kirkpatrickella
+TRYOCC	trpE	Kirkpatrickella
+TRYOCC	trpD	Kirkpatrickella
+TRYOCC	trpG	Kirkpatrickella
+TRYOCC	trpF	Kirkpatrickella
+TRYOCC	trpC	Kirkpatrickella
+TRYOCC	trpB	Kirkpatrickella
+TRYOCC	trpA	Kirkpatrickella
+TRYOCC	ilvB	Kirkpatrickella
+TRYOCC	ilvN	Kirkpatrickella
+TRYOCC	ilvC	Kirkpatrickella
+TRYOCC	ilvD	Kirkpatrickella
+TRYOCC	leuA	Kirkpatrickella
+TRYOCC	leuC	Kirkpatrickella
+TRYOCC	leuD	Kirkpatrickella
+TRYOCC	leuB	Kirkpatrickella
+TRYOCC	ilvE	Kirkpatrickella
+TRYOCC	ilvA	Kirkpatrickella
+TRYOCC	ilvB	Kirkpatrickella
+TRYOCC	ilvN	Kirkpatrickella
+TRYOCC	ilvC	Kirkpatrickella
+TRYOCC	ilvD	Kirkpatrickella
+TRYOCC	ilvE	Kirkpatrickella
+COTACU	lysC	Rickettsia,Gammaproteobacterium
+COTACU	asd	Rickettsia,Gammaproteobacterium
+COTACU	thrA	Rickettsia,Gammaproteobacterium
+COTACU	thrB	
+COTACU	thrC	
+COTACU	metA	
+COTACU	metB	
+COTACU	metC	
+COTACU	metE	
+COTACU	dapA	Rickettsia,Gammaproteobacterium
+COTACU	dapB	Rickettsia,Gammaproteobacterium
+COTACU	dapC	Rickettsia
+COTACU	dapD	Rickettsia,Gammaproteobacterium
+COTACU	dapE	Rickettsia,Gammaproteobacterium
+COTACU	dapF	Rickettsia,Gammaproteobacterium
+COTACU	lysA	
+COTACU	argA	
+COTACU	argB	Rickettsia
+COTACU	argC	Rickettsia
+COTACU	argD	
+COTACU	argE	Rickettsia,Gammaproteobacterium
+COTACU	argF	Gammaproteobacterium
+COTACU	argG	
+COTACU	argH	
+COTACU	carA	Gammaproteobacterium
+COTACU	carB	Gammaproteobacterium
+COTACU	hisA	
+COTACU	hisB	
+COTACU	hisC	Rickettsia
+COTACU	hisD	
+COTACU	hisE	
+COTACU	hisF	
+COTACU	hisG	
+COTACU	hisH	
+COTACU	hisI	
+COTACU	aroG	
+COTACU	aroB	
+COTACU	aroQ	
+COTACU	aroE	
+COTACU	aroK	Gammaproteobacterium
+COTACU	aroA	
+COTACU	aroC	
+COTACU	pheA	
+COTACU	aspC	Rickettsia
+COTACU	trpE	
+COTACU	trpD	
+COTACU	trpG	
+COTACU	trpF	
+COTACU	trpC	
+COTACU	trpB	
+COTACU	trpA	
+COTACU	ilvB	
+COTACU	ilvN	
+COTACU	ilvC	
+COTACU	ilvD	
+COTACU	leuA	
+COTACU	leuC	
+COTACU	leuD	
+COTACU	leuB	
+COTACU	ilvE	
+COTACU	ilvA	Rickettsia
+COTACU	ilvB	
+COTACU	ilvN	
+COTACU	ilvC	
+COTACU	ilvD	
+COTACU	ilvE	Rickettsia
+ISSCOL1	lysC	Sphingomonas
+ISSCOL1	asd	Sphingomonas
+ISSCOL1	thrA	Sphingomonas
+ISSCOL1	thrB	
+ISSCOL1	thrC	Sphingomonas
+ISSCOL1	metA	Sphingomonas
+ISSCOL1	metB	Sphingomonas
+ISSCOL1	metC	Sphingomonas
+ISSCOL1	metE	Sphingomonas
+ISSCOL1	dapA	Sphingomonas
+ISSCOL1	dapB	
+ISSCOL1	dapC	Sphingomonas
+ISSCOL1	dapD	Sphingomonas
+ISSCOL1	dapE	Sphingomonas
+ISSCOL1	dapF	Sphingomonas
+ISSCOL1	lysA	Sphingomonas
+ISSCOL1	argA	Sphingomonas
+ISSCOL1	argB	Sphingomonas
+ISSCOL1	argC	Sphingomonas
+ISSCOL1	argD	Sphingomonas
+ISSCOL1	argE	Sphingomonas
+ISSCOL1	argF	Sphingomonas
+ISSCOL1	argG	Sphingomonas
+ISSCOL1	argH	Sphingomonas
+ISSCOL1	carA	Sphingomonas
+ISSCOL1	carB	
+ISSCOL1	hisA	Sphingomonas
+ISSCOL1	hisB	Sphingomonas
+ISSCOL1	hisC	Sphingomonas
+ISSCOL1	hisD	Sphingomonas
+ISSCOL1	hisE	Sphingomonas
+ISSCOL1	hisF	Sphingomonas
+ISSCOL1	hisG	Sphingomonas
+ISSCOL1	hisH	Sphingomonas
+ISSCOL1	hisI	
+ISSCOL1	aroG	Sphingomonas
+ISSCOL1	aroB	Sphingomonas
+ISSCOL1	aroQ	Sphingomonas
+ISSCOL1	aroE	Sphingomonas
+ISSCOL1	aroK	Sphingomonas
+ISSCOL1	aroA	Sphingomonas
+ISSCOL1	aroC	Sphingomonas
+ISSCOL1	pheA	Sphingomonas
+ISSCOL1	aspC	Sphingomonas
+ISSCOL1	trpE	Sphingomonas
+ISSCOL1	trpD	Sphingomonas
+ISSCOL1	trpG	Sphingomonas
+ISSCOL1	trpF	Sphingomonas
+ISSCOL1	trpC	Sphingomonas
+ISSCOL1	trpB	Sphingomonas
+ISSCOL1	trpA	
+ISSCOL1	ilvB	Sphingomonas
+ISSCOL1	ilvN	Sphingomonas
+ISSCOL1	ilvC	Sphingomonas
+ISSCOL1	ilvD	Sphingomonas
+ISSCOL1	leuA	Sphingomonas
+ISSCOL1	leuC	
+ISSCOL1	leuD	
+ISSCOL1	leuB	
+ISSCOL1	ilvE	
+ISSCOL1	ilvA	Sphingomonas
+ISSCOL1	ilvB	Sphingomonas
+ISSCOL1	ilvN	Sphingomonas
+ISSCOL1	ilvC	Sphingomonas
+ISSCOL1	ilvD	Sphingomonas
+ISSCOL1	ilvE	
+MYCCUN	lysC	Serratia,Hafnia,Sorlinia
+MYCCUN	asd	Serratia,Hafnia,Sorlinia
+MYCCUN	thrA	Serratia,Hafnia,Sorlinia
+MYCCUN	thrB	Sorlinia
+MYCCUN	thrC	Serratia,Hafnia,Sorlinia
+MYCCUN	metA	Serratia,Hafnia
+MYCCUN	metB	Serratia,Hafnia,Sorlinia
+MYCCUN	metC	Serratia,Hafnia,Sorlinia
+MYCCUN	metE	Serratia,Hafnia,Sorlinia
+MYCCUN	dapA	Serratia,Hafnia,Sorlinia
+MYCCUN	dapB	Serratia,Hafnia,Sorlinia
+MYCCUN	dapC	Serratia,Hafnia,Sorlinia
+MYCCUN	dapD	Serratia,Hafnia,Sorlinia
+MYCCUN	dapE	Hafnia,Sorlinia
+MYCCUN	dapF	Serratia,Hafnia,Sorlinia
+MYCCUN	lysA	Hafnia,Sorlinia
+MYCCUN	argA	Serratia,Hafnia,Sorlinia
+MYCCUN	argB	Serratia,Hafnia,Sorlinia
+MYCCUN	argC	Serratia,Hafnia,Sorlinia
+MYCCUN	argD	Serratia,Hafnia,Sorlinia
+MYCCUN	argE	Serratia,Hafnia,Sorlinia
+MYCCUN	argF	Serratia,Hafnia,Sorlinia
+MYCCUN	argG	Serratia,Hafnia,Sorlinia
+MYCCUN	argH	Serratia,Hafnia,Sorlinia
+MYCCUN	carA	Serratia,Hafnia,Sorlinia
+MYCCUN	carB	Serratia,Hafnia,Sorlinia
+MYCCUN	hisA	
+MYCCUN	hisB	Hafnia,Sorlinia
+MYCCUN	hisC	Serratia,Hafnia,Sorlinia
+MYCCUN	hisD	Serratia,Hafnia,Sorlinia
+MYCCUN	hisE	Serratia,Hafnia,Sorlinia
+MYCCUN	hisF	Serratia,Hafnia,Sorlinia
+MYCCUN	hisG	Hafnia,Sorlinia
+MYCCUN	hisH	Serratia,Hafnia,Sorlinia
+MYCCUN	hisI	Serratia,Hafnia,Sorlinia
+MYCCUN	aroG	Hafnia,Serratia
+MYCCUN	aroB	Serratia,Hafnia,Sorlinia
+MYCCUN	aroQ	Serratia,Sorlinia
+MYCCUN	aroE	Hafnia,Sorlinia
+MYCCUN	aroK	Serratia,Hafnia,Sorlinia
+MYCCUN	aroA	Serratia,Hafnia,Sorlinia
+MYCCUN	aroC	Serratia,Hafnia,Sorlinia
+MYCCUN	pheA	Serratia,Hafnia,Sorlinia
+MYCCUN	aspC	Serratia,Hafnia,Sorlinia
+MYCCUN	trpE	Hafnia,Sorlinia
+MYCCUN	trpD	Serratia,Hafnia,Sorlinia
+MYCCUN	trpG	Hafnia,Sorlinia
+MYCCUN	trpF	Serratia,Hafnia,Sorlinia
+MYCCUN	trpC	Serratia,Hafnia,Sorlinia
+MYCCUN	trpB	Serratia,Hafnia,Sorlinia
+MYCCUN	trpA	Serratia,Hafnia,Sorlinia
+MYCCUN	ilvB	Serratia,Hafnia,Sorlinia
+MYCCUN	ilvN	Serratia,Hafnia,Sorlinia
+MYCCUN	ilvC	Serratia,Hafnia,Sorlinia
+MYCCUN	ilvD	Serratia,Hafnia,Sorlinia
+MYCCUN	leuA	Serratia,Hafnia,Sorlinia
+MYCCUN	leuC	Serratia,Hafnia,Sorlinia
+MYCCUN	leuD	Serratia,Hafnia,Sorlinia
+MYCCUN	leuB	Serratia,Hafnia,Sorlinia
+MYCCUN	ilvE	Serratia,Hafnia,Sorlinia
+MYCCUN	ilvA	Serratia,Hafnia,Sorlinia
+MYCCUN	ilvB	Serratia,Hafnia,Sorlinia
+MYCCUN	ilvN	Serratia,Hafnia,Sorlinia
+MYCCUN	ilvC	Serratia,Hafnia,Sorlinia
+MYCCUN	ilvD	Serratia,Hafnia,Sorlinia
+MYCCUN	ilvE	Serratia,Hafnia,Sorlinia
+ZOPTEN	lysC	Kirkpatrickella,Sodalis
+ZOPTEN	asd	Kirkpatrickella,Sodalis
+ZOPTEN	thrA	Kirkpatrickella
+ZOPTEN	thrB	Kirkpatrickella
+ZOPTEN	thrC	Kirkpatrickella
+ZOPTEN	metA	Kirkpatrickella
+ZOPTEN	metB	Kirkpatrickella
+ZOPTEN	metC	Kirkpatrickella
+ZOPTEN	metE	Kirkpatrickella
+ZOPTEN	dapA	Kirkpatrickella,Sodalis
+ZOPTEN	dapB	Kirkpatrickella,Sodalis
+ZOPTEN	dapC	Kirkpatrickella
+ZOPTEN	dapD	Kirkpatrickella,Sodalis
+ZOPTEN	dapE	Kirkpatrickella,Sodalis
+ZOPTEN	dapF	Kirkpatrickella,Sodalis
+ZOPTEN	lysA	Kirkpatrickella,Sodalis
+ZOPTEN	argA	Kirkpatrickella
+ZOPTEN	argB	Kirkpatrickella
+ZOPTEN	argC	Kirkpatrickella
+ZOPTEN	argD	Kirkpatrickella
+ZOPTEN	argE	Kirkpatrickella
+ZOPTEN	argF	Kirkpatrickella,Sodalis
+ZOPTEN	argG	Kirkpatrickella
+ZOPTEN	argH	Kirkpatrickella
+ZOPTEN	carA	Kirkpatrickella,Sodalis
+ZOPTEN	carB	Kirkpatrickella,Sodalis
+ZOPTEN	hisA	
+ZOPTEN	hisB	Kirkpatrickella
+ZOPTEN	hisC	Kirkpatrickella
+ZOPTEN	hisD	Kirkpatrickella
+ZOPTEN	hisE	Kirkpatrickella
+ZOPTEN	hisF	Kirkpatrickella
+ZOPTEN	hisG	Kirkpatrickella
+ZOPTEN	hisH	Kirkpatrickella
+ZOPTEN	hisI	Kirkpatrickella
+ZOPTEN	aroG	
+ZOPTEN	aroB	Kirkpatrickella
+ZOPTEN	aroQ	Kirkpatrickella
+ZOPTEN	aroE	Kirkpatrickella
+ZOPTEN	aroK	Kirkpatrickella
+ZOPTEN	aroA	Kirkpatrickella
+ZOPTEN	aroC	Kirkpatrickella
+ZOPTEN	pheA	Kirkpatrickella
+ZOPTEN	aspC	Kirkpatrickella
+ZOPTEN	trpE	
+ZOPTEN	trpD	
+ZOPTEN	trpG	
+ZOPTEN	trpF	
+ZOPTEN	trpC	
+ZOPTEN	trpB	
+ZOPTEN	trpA	
+ZOPTEN	ilvB	Kirkpatrickella
+ZOPTEN	ilvN	Kirkpatrickella
+ZOPTEN	ilvC	Kirkpatrickella
+ZOPTEN	ilvD	Kirkpatrickella
+ZOPTEN	leuA	Kirkpatrickella
+ZOPTEN	leuC	Kirkpatrickella
+ZOPTEN	leuD	Kirkpatrickella
+ZOPTEN	leuB	Kirkpatrickella
+ZOPTEN	ilvE	Kirkpatrickella
+ZOPTEN	ilvA	Kirkpatrickella
+ZOPTEN	ilvB	Kirkpatrickella
+ZOPTEN	ilvN	Kirkpatrickella
+ZOPTEN	ilvC	Kirkpatrickella
+ZOPTEN	ilvD	Kirkpatrickella
+ZOPTEN	ilvE	Kirkpatrickella
+SCODIS	lysC	
+SCODIS	asd	
+SCODIS	thrA	
+SCODIS	thrB	
+SCODIS	thrC	
+SCODIS	metA	
+SCODIS	metB	
+SCODIS	metC	
+SCODIS	metE	
+SCODIS	dapA	
+SCODIS	dapB	
+SCODIS	dapC	
+SCODIS	dapD	
+SCODIS	dapE	
+SCODIS	dapF	
+SCODIS	lysA	
+SCODIS	argA	
+SCODIS	argB	
+SCODIS	argC	
+SCODIS	argD	
+SCODIS	argE	
+SCODIS	argF	
+SCODIS	argG	
+SCODIS	argH	
+SCODIS	carA	
+SCODIS	carB	
+SCODIS	hisA	
+SCODIS	hisB	
+SCODIS	hisC	
+SCODIS	hisD	
+SCODIS	hisE	
+SCODIS	hisF	
+SCODIS	hisG	
+SCODIS	hisH	
+SCODIS	hisI	
+SCODIS	aroG	
+SCODIS	aroB	
+SCODIS	aroQ	
+SCODIS	aroE	
+SCODIS	aroK	
+SCODIS	aroA	
+SCODIS	aroC	
+SCODIS	pheA	
+SCODIS	aspC	Arsenophonus
+SCODIS	trpE	
+SCODIS	trpD	
+SCODIS	trpG	
+SCODIS	trpF	
+SCODIS	trpC	
+SCODIS	trpB	
+SCODIS	trpA	
+SCODIS	ilvB	
+SCODIS	ilvN	
+SCODIS	ilvC	
+SCODIS	ilvD	
+SCODIS	leuA	
+SCODIS	leuC	
+SCODIS	leuD	
+SCODIS	leuB	
+SCODIS	ilvE	
+SCODIS	ilvA	
+SCODIS	ilvB	
+SCODIS	ilvN	
+SCODIS	ilvC	
+SCODIS	ilvD	
+SCODIS	ilvE	
+LIBAN	lysC	
+LIBAN	asd	Sodalis
+LIBAN	thrA	
+LIBAN	thrB	
+LIBAN	thrC	
+LIBAN	metA	
+LIBAN	metB	
+LIBAN	metC	
+LIBAN	metE	
+LIBAN	dapA	
+LIBAN	dapB	Sodalis
+LIBAN	dapC	
+LIBAN	dapD	
+LIBAN	dapE	
+LIBAN	dapF	
+LIBAN	lysA	
+LIBAN	argA	
+LIBAN	argB	
+LIBAN	argC	
+LIBAN	argD	
+LIBAN	argE	
+LIBAN	argF	
+LIBAN	argG	
+LIBAN	argH	
+LIBAN	carA	
+LIBAN	carB	
+LIBAN	hisA	
+LIBAN	hisB	
+LIBAN	hisC	
+LIBAN	hisD	
+LIBAN	hisE	
+LIBAN	hisF	
+LIBAN	hisG	
+LIBAN	hisH	
+LIBAN	hisI	
+LIBAN	aroG	
+LIBAN	aroB	
+LIBAN	aroQ	
+LIBAN	aroE	
+LIBAN	aroK	Sodalis
+LIBAN	aroA	
+LIBAN	aroC	Sodalis
+LIBAN	pheA	
+LIBAN	aspC	
+LIBAN	trpE	
+LIBAN	trpD	
+LIBAN	trpG	
+LIBAN	trpF	
+LIBAN	trpC	
+LIBAN	trpB	
+LIBAN	trpA	
+LIBAN	ilvB	
+LIBAN	ilvN	
+LIBAN	ilvC	
+LIBAN	ilvD	
+LIBAN	leuA	
+LIBAN	leuC	
+LIBAN	leuD	
+LIBAN	leuB	
+LIBAN	ilvE	
+LIBAN	ilvA	
+LIBAN	ilvB	
+LIBAN	ilvN	
+LIBAN	ilvC	
+LIBAN	ilvD	
+LIBAN	ilvE	
+AGAHAV	lysC	Wolbachia,Serratia
+AGAHAV	asd	Wolbachia,Serratia
+AGAHAV	thrA	Wolbachia,Serratia
+AGAHAV	thrB	
+AGAHAV	thrC	Serratia
+AGAHAV	metA	Serratia
+AGAHAV	metB	Wolbachia,Serratia
+AGAHAV	metC	
+AGAHAV	metE	Serratia
+AGAHAV	dapA	Wolbachia,Serratia
+AGAHAV	dapB	Wolbachia,Serratia
+AGAHAV	dapC	Wolbachia,Serratia
+AGAHAV	dapD	Wolbachia,Serratia
+AGAHAV	dapE	Wolbachia,Serratia
+AGAHAV	dapF	Wolbachia,Serratia
+AGAHAV	lysA	Serratia
+AGAHAV	argA	
+AGAHAV	argB	Wolbachia,Serratia
+AGAHAV	argC	Wolbachia,Serratia
+AGAHAV	argD	Wolbachia,Serratia
+AGAHAV	argE	Wolbachia,Serratia
+AGAHAV	argF	Wolbachia,Serratia
+AGAHAV	argG	Serratia
+AGAHAV	argH	Wolbachia,Serratia
+AGAHAV	carA	Wolbachia,Serratia
+AGAHAV	carB	Wolbachia,Serratia
+AGAHAV	hisA	
+AGAHAV	hisB	
+AGAHAV	hisC	Serratia
+AGAHAV	hisD	Serratia
+AGAHAV	hisE	
+AGAHAV	hisF	
+AGAHAV	hisG	
+AGAHAV	hisH	
+AGAHAV	hisI	
+AGAHAV	aroG	Serratia
+AGAHAV	aroB	
+AGAHAV	aroQ	Serratia
+AGAHAV	aroE	Serratia
+AGAHAV	aroK	
+AGAHAV	aroA	Serratia
+AGAHAV	aroC	Serratia
+AGAHAV	pheA	Serratia
+AGAHAV	aspC	Serratia
+AGAHAV	trpE	Serratia
+AGAHAV	trpD	Serratia
+AGAHAV	trpG	
+AGAHAV	trpF	
+AGAHAV	trpC	
+AGAHAV	trpB	Serratia
+AGAHAV	trpA	
+AGAHAV	ilvB	Serratia
+AGAHAV	ilvN	Serratia
+AGAHAV	ilvC	Serratia
+AGAHAV	ilvD	Serratia
+AGAHAV	leuA	Serratia
+AGAHAV	leuC	Serratia
+AGAHAV	leuD	
+AGAHAV	leuB	Serratia
+AGAHAV	ilvE	Serratia
+AGAHAV	ilvA	Serratia
+AGAHAV	ilvB	Serratia
+AGAHAV	ilvN	Serratia
+AGAHAV	ilvC	Serratia
+AGAHAV	ilvD	Serratia
+AGAHAV	ilvE	Serratia
+LACSP	lysC	Wolbachia,Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	asd	Wolbachia,Klebsiella,Enterobacter,Aeromonas
+LACSP	thrA	Wolbachia,Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	thrB	
+LACSP	thrC	Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	metA	Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	metB	Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	metC	Klebsiella,Enterobacter,Aeromonas
+LACSP	metE	Klebsiella,Pseudomonas,Enterobacter
+LACSP	dapA	Wolbachia,Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	dapB	Wolbachia,Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	dapC	Wolbachia,Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	dapD	Wolbachia,Klebsiella,Enterobacter,Aeromonas
+LACSP	dapE	Wolbachia,Klebsiella,Enterobacter,Aeromonas
+LACSP	dapF	Wolbachia,Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	lysA	Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	argA	Acinetobacter,Klebsiella,Pseudomonas,Enterobacter
+LACSP	argB	Wolbachia,Acinetobacter,Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	argC	Wolbachia,Acinetobacter,Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	argD	Wolbachia,Acinetobacter,Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	argE	Wolbachia,Acinetobacter,Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	argF	Wolbachia,Acinetobacter,Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	argG	Acinetobacter,Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	argH	Wolbachia,Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	carA	Wolbachia,Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	carB	Wolbachia,Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	hisA	
+LACSP	hisB	Klebsiella,Enterobacter
+LACSP	hisC	Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	hisD	Klebsiella,Pseudomonas,Enterobacter
+LACSP	hisE	Pseudomonas
+LACSP	hisF	Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	hisG	Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	hisH	Klebsiella,Pseudomonas,Enterobacter
+LACSP	hisI	Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	aroG	Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	aroB	Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	aroQ	Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	aroE	Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	aroK	Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	aroA	Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	aroC	Klebsiella,Enterobacter,Aeromonas
+LACSP	pheA	Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	aspC	Wolbachia,Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	trpE	Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	trpD	Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	trpG	Pseudomonas,Klebsiella
+LACSP	trpF	Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	trpC	Pseudomonas,Enterobacter,Aeromonas
+LACSP	trpB	Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	trpA	Klebsiella,Pseudomonas,Enterobacter
+LACSP	ilvB	Klebsiella,Enterobacter,Aeromonas
+LACSP	ilvN	Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	ilvC	Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	ilvD	Acinetobacter,Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	leuA	Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	leuC	Acinetobacter,Enterobacter
+LACSP	leuD	Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	leuB	Pseudomonas,Enterobacter,Aeromonas
+LACSP	ilvE	Pseudomonas,Enterobacter,Aeromonas
+LACSP	ilvA	Klebsiella,Enterobacter
+LACSP	ilvB	Klebsiella,Enterobacter,Aeromonas
+LACSP	ilvN	Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	ilvC	Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	ilvD	Acinetobacter,Klebsiella,Pseudomonas,Enterobacter,Aeromonas
+LACSP	ilvE	Pseudomonas,Enterobacter,Aeromonas
+LOPSAC	lysC	Sodalis
+LOPSAC	asd	Sodalis
+LOPSAC	thrA	
+LOPSAC	thrB	
+LOPSAC	thrC	
+LOPSAC	metA	
+LOPSAC	metB	
+LOPSAC	metC	
+LOPSAC	metE	
+LOPSAC	dapA	Sodalis
+LOPSAC	dapB	Sodalis
+LOPSAC	dapC	
+LOPSAC	dapD	Sodalis
+LOPSAC	dapE	Sodalis
+LOPSAC	dapF	Sodalis
+LOPSAC	lysA	
+LOPSAC	argA	
+LOPSAC	argB	
+LOPSAC	argC	
+LOPSAC	argD	
+LOPSAC	argE	Sodalis
+LOPSAC	argF	
+LOPSAC	argG	
+LOPSAC	argH	
+LOPSAC	carA	
+LOPSAC	carB	
+LOPSAC	hisA	
+LOPSAC	hisB	
+LOPSAC	hisC	
+LOPSAC	hisD	
+LOPSAC	hisE	
+LOPSAC	hisF	
+LOPSAC	hisG	
+LOPSAC	hisH	
+LOPSAC	hisI	
+LOPSAC	aroG	
+LOPSAC	aroB	Sodalis
+LOPSAC	aroQ	Sodalis
+LOPSAC	aroE	Sodalis
+LOPSAC	aroK	Sodalis
+LOPSAC	aroA	
+LOPSAC	aroC	Sodalis
+LOPSAC	pheA	
+LOPSAC	aspC	Sodalis
+LOPSAC	trpE	
+LOPSAC	trpD	
+LOPSAC	trpG	
+LOPSAC	trpF	
+LOPSAC	trpC	
+LOPSAC	trpB	
+LOPSAC	trpA	
+LOPSAC	ilvB	
+LOPSAC	ilvN	
+LOPSAC	ilvC	
+LOPSAC	ilvD	
+LOPSAC	leuA	
+LOPSAC	leuC	
+LOPSAC	leuD	
+LOPSAC	leuB	
+LOPSAC	ilvE	Sodalis
+LOPSAC	ilvA	
+LOPSAC	ilvB	
+LOPSAC	ilvN	
+LOPSAC	ilvC	
+LOPSAC	ilvD	
+LOPSAC	ilvE	
+PARIOC	lysC	Wolbachia,Symbiodolus
+PARIOC	asd	Wolbachia,Symbiodolus,Tisiphia
+PARIOC	thrA	Wolbachia,Symbiodolus,Tisiphia
+PARIOC	thrB	
+PARIOC	thrC	
+PARIOC	metA	
+PARIOC	metB	
+PARIOC	metC	Wolbachia
+PARIOC	metE	
+PARIOC	dapA	Wolbachia,Symbiodolus
+PARIOC	dapB	Wolbachia,Symbiodolus
+PARIOC	dapC	Wolbachia,Symbiodolus
+PARIOC	dapD	Wolbachia,Symbiodolus
+PARIOC	dapE	Wolbachia,Symbiodolus
+PARIOC	dapF	Wolbachia,Symbiodolus
+PARIOC	lysA	
+PARIOC	argA	
+PARIOC	argB	Wolbachia
+PARIOC	argC	Wolbachia
+PARIOC	argD	Wolbachia
+PARIOC	argE	Wolbachia,Symbiodolus
+PARIOC	argF	Wolbachia,Symbiodolus
+PARIOC	argG	
+PARIOC	argH	Wolbachia
+PARIOC	carA	Wolbachia,Symbiodolus
+PARIOC	carB	Wolbachia,Symbiodolus
+PARIOC	hisA	
+PARIOC	hisB	
+PARIOC	hisC	Wolbachia,Symbiodolus
+PARIOC	hisD	
+PARIOC	hisE	
+PARIOC	hisF	
+PARIOC	hisG	
+PARIOC	hisH	
+PARIOC	hisI	
+PARIOC	aroG	Symbiodolus
+PARIOC	aroB	Symbiodolus
+PARIOC	aroQ	Symbiodolus
+PARIOC	aroE	Symbiodolus
+PARIOC	aroK	Symbiodolus
+PARIOC	aroA	Symbiodolus
+PARIOC	aroC	Symbiodolus
+PARIOC	pheA	Symbiodolus
+PARIOC	aspC	Wolbachia,Symbiodolus
+PARIOC	trpE	Symbiodolus
+PARIOC	trpD	
+PARIOC	trpG	Symbiodolus
+PARIOC	trpF	
+PARIOC	trpC	
+PARIOC	trpB	
+PARIOC	trpA	
+PARIOC	ilvB	
+PARIOC	ilvN	
+PARIOC	ilvC	
+PARIOC	ilvD	
+PARIOC	leuA	
+PARIOC	leuC	
+PARIOC	leuD	
+PARIOC	leuB	
+PARIOC	ilvE	
+PARIOC	ilvA	
+PARIOC	ilvB	
+PARIOC	ilvN	
+PARIOC	ilvC	
+PARIOC	ilvD	
+PARIOC	ilvE	
+TETIMP	lysC	Rickettsiella,Arsenophonus
+TETIMP	asd	Arsenophonus
+TETIMP	thrA	Rickettsiella,Arsenophonus
+TETIMP	thrB	Arsenophonus
+TETIMP	thrC	Arsenophonus
+TETIMP	metA	
+TETIMP	metB	Rickettsiella,Arsenophonus
+TETIMP	metC	Rickettsiella,Arsenophonus
+TETIMP	metE	
+TETIMP	dapA	Rickettsiella,Arsenophonus
+TETIMP	dapB	Rickettsiella,Arsenophonus
+TETIMP	dapC	Rickettsiella,Arsenophonus
+TETIMP	dapD	Rickettsiella,Arsenophonus
+TETIMP	dapE	Rickettsiella,Arsenophonus
+TETIMP	dapF	Rickettsiella,Arsenophonus
+TETIMP	lysA	Rickettsiella
+TETIMP	argA	Arsenophonus
+TETIMP	argB	
+TETIMP	argC	Rickettsiella
+TETIMP	argD	Arsenophonus,Rickettsiella
+TETIMP	argE	Arsenophonus,Rickettsiella
+TETIMP	argF	Arsenophonus,Rickettsiella,Sodalis
+TETIMP	argG	Sodalis
+TETIMP	argH	Rickettsiella
+TETIMP	carA	Arsenophonus
+TETIMP	carB	Arsenophonus,Rickettsiella,Sodalis
+TETIMP	hisA	
+TETIMP	hisB	
+TETIMP	hisC	Arsenophonus,Rickettsiella
+TETIMP	hisD	
+TETIMP	hisE	
+TETIMP	hisF	
+TETIMP	hisG	
+TETIMP	hisH	
+TETIMP	hisI	
+TETIMP	aroG	Arsenophonus
+TETIMP	aroB	Arsenophonus
+TETIMP	aroQ	Arsenophonus
+TETIMP	aroE	Arsenophonus
+TETIMP	aroK	Arsenophonus
+TETIMP	aroA	Arsenophonus,Sodalis
+TETIMP	aroC	Rickettsiella
+TETIMP	pheA	Arsenophonus
+TETIMP	aspC	Arsenophonus,Rickettsiella,Sodalis
+TETIMP	trpE	Arsenophonus
+TETIMP	trpD	Arsenophonus
+TETIMP	trpG	Sodalis
+TETIMP	trpF	Arsenophonus
+TETIMP	trpC	Sodalis
+TETIMP	trpB	Sodalis
+TETIMP	trpA	Sodalis
+TETIMP	ilvB	
+TETIMP	ilvN	
+TETIMP	ilvC	
+TETIMP	ilvD	
+TETIMP	leuA	Arsenophonus
+TETIMP	leuC	Arsenophonus
+TETIMP	leuD	Arsenophonus
+TETIMP	leuB	Arsenophonus
+TETIMP	ilvE	
+TETIMP	ilvA	
+TETIMP	ilvB	
+TETIMP	ilvN	
+TETIMP	ilvC	
+TETIMP	ilvD	
+TETIMP	ilvE	
+TETSUL	lysC	
+TETSUL	asd	
+TETSUL	thrA	
+TETSUL	thrB	
+TETSUL	thrC	
+TETSUL	metA	
+TETSUL	metB	
+TETSUL	metC	
+TETSUL	metE	
+TETSUL	dapA	
+TETSUL	dapB	
+TETSUL	dapC	
+TETSUL	dapD	
+TETSUL	dapE	
+TETSUL	dapF	
+TETSUL	lysA	
+TETSUL	argA	
+TETSUL	argB	
+TETSUL	argC	
+TETSUL	argD	
+TETSUL	argE	
+TETSUL	argF	
+TETSUL	argG	
+TETSUL	argH	
+TETSUL	carA	Sodalis
+TETSUL	carB	Sodalis
+TETSUL	hisA	
+TETSUL	hisB	
+TETSUL	hisC	
+TETSUL	hisD	
+TETSUL	hisE	
+TETSUL	hisF	
+TETSUL	hisG	
+TETSUL	hisH	
+TETSUL	hisI	
+TETSUL	aroG	
+TETSUL	aroB	
+TETSUL	aroQ	
+TETSUL	aroE	
+TETSUL	aroK	
+TETSUL	aroA	
+TETSUL	aroC	
+TETSUL	pheA	
+TETSUL	aspC	
+TETSUL	trpE	
+TETSUL	trpD	Sodalis
+TETSUL	trpG	
+TETSUL	trpF	Sodalis
+TETSUL	trpC	Sodalis
+TETSUL	trpB	Sodalis
+TETSUL	trpA	Sodalis
+TETSUL	ilvB	Symbiopectobacterium
+TETSUL	ilvN	
+TETSUL	ilvC	
+TETSUL	ilvD	
+TETSUL	leuA	
+TETSUL	leuC	
+TETSUL	leuD	
+TETSUL	leuB	
+TETSUL	ilvE	
+TETSUL	ilvA	
+TETSUL	ilvB	Symbiopectobacterium
+TETSUL	ilvN	
+TETSUL	ilvC	
+TETSUL	ilvD	
+TETSUL	ilvE	
+TETMAC	lysC	Symbiopectobacterium
+TETMAC	asd	Symbiopectobacterium
+TETMAC	thrA	
+TETMAC	thrB	
+TETMAC	thrC	
+TETMAC	metA	
+TETMAC	metB	
+TETMAC	metC	
+TETMAC	metE	
+TETMAC	dapA	Symbiopectobacterium
+TETMAC	dapB	Symbiopectobacterium
+TETMAC	dapC	Symbiopectobacterium
+TETMAC	dapD	Symbiopectobacterium
+TETMAC	dapE	Symbiopectobacterium
+TETMAC	dapF	Symbiopectobacterium
+TETMAC	lysA	Symbiopectobacterium
+TETMAC	argA	Symbiopectobacterium
+TETMAC	argB	Symbiopectobacterium
+TETMAC	argC	Symbiopectobacterium
+TETMAC	argD	Symbiopectobacterium
+TETMAC	argE	Symbiopectobacterium
+TETMAC	argF	Symbiopectobacterium,Sodalis
+TETMAC	argG	Symbiopectobacterium
+TETMAC	argH	Symbiopectobacterium,Sodalis
+TETMAC	carA	Symbiopectobacterium
+TETMAC	carB	Symbiopectobacterium,Sodalis
+TETMAC	hisA	
+TETMAC	hisB	
+TETMAC	hisC	
+TETMAC	hisD	
+TETMAC	hisE	
+TETMAC	hisF	
+TETMAC	hisG	
+TETMAC	hisH	
+TETMAC	hisI	
+TETMAC	aroG	Symbiopectobacterium
+TETMAC	aroB	Symbiopectobacterium
+TETMAC	aroQ	Symbiopectobacterium
+TETMAC	aroE	Symbiopectobacterium
+TETMAC	aroK	Symbiopectobacterium
+TETMAC	aroA	
+TETMAC	aroC	Symbiopectobacterium
+TETMAC	pheA	
+TETMAC	aspC	
+TETMAC	trpE	Symbiopectobacterium
+TETMAC	trpD	Symbiopectobacterium
+TETMAC	trpG	Symbiopectobacterium
+TETMAC	trpF	Symbiopectobacterium,Sodalis
+TETMAC	trpC	Symbiopectobacterium
+TETMAC	trpB	Symbiopectobacterium,Sodalis
+TETMAC	trpA	Symbiopectobacterium
+TETMAC	ilvB	Symbiopectobacterium
+TETMAC	ilvN	Symbiopectobacterium
+TETMAC	ilvC	
+TETMAC	ilvD	
+TETMAC	leuA	
+TETMAC	leuC	
+TETMAC	leuD	
+TETMAC	leuB	
+TETMAC	ilvE	
+TETMAC	ilvA	
+TETMAC	ilvB	Symbiopectobacterium
+TETMAC	ilvN	Symbiopectobacterium
+TETMAC	ilvC	
+TETMAC	ilvD	
+TETMAC	ilvE	
+TETHEX	lysC	
+TETHEX	asd	
+TETHEX	thrA	
+TETHEX	thrB	
+TETHEX	thrC	
+TETHEX	metA	
+TETHEX	metB	
+TETHEX	metC	
+TETHEX	metE	
+TETHEX	dapA	
+TETHEX	dapB	
+TETHEX	dapC	
+TETHEX	dapD	
+TETHEX	dapE	
+TETHEX	dapF	
+TETHEX	lysA	
+TETHEX	argA	
+TETHEX	argB	
+TETHEX	argC	
+TETHEX	argD	
+TETHEX	argE	
+TETHEX	argF	
+TETHEX	argG	Sodalis
+TETHEX	argH	
+TETHEX	carA	Sodalis
+TETHEX	carB	Sodalis
+TETHEX	hisA	
+TETHEX	hisB	
+TETHEX	hisC	
+TETHEX	hisD	
+TETHEX	hisE	
+TETHEX	hisF	
+TETHEX	hisG	
+TETHEX	hisH	
+TETHEX	hisI	
+TETHEX	aroG	
+TETHEX	aroB	
+TETHEX	aroQ	
+TETHEX	aroE	
+TETHEX	aroK	
+TETHEX	aroA	
+TETHEX	aroC	
+TETHEX	pheA	
+TETHEX	aspC	
+TETHEX	trpE	
+TETHEX	trpD	
+TETHEX	trpG	
+TETHEX	trpF	
+TETHEX	trpC	Sodalis
+TETHEX	trpB	Sodalis
+TETHEX	trpA	
+TETHEX	ilvB	
+TETHEX	ilvN	
+TETHEX	ilvC	
+TETHEX	ilvD	
+TETHEX	leuA	
+TETHEX	leuC	
+TETHEX	leuD	
+TETHEX	leuB	
+TETHEX	ilvE	
+TETHEX	ilvA	
+TETHEX	ilvB	
+TETHEX	ilvN	
+TETHEX	ilvC	
+TETHEX	ilvD	
+TETHEX	ilvE	
+OMMLON	lysC	Sodalis,Sphingomonas
+OMMLON	asd	Sodalis,Sphingomonas
+OMMLON	thrA	Sodalis,Sphingomonas
+OMMLON	thrB	
+OMMLON	thrC	Sodalis,Sphingomonas
+OMMLON	metA	Sphingomonas
+OMMLON	metB	Sphingomonas
+OMMLON	metC	
+OMMLON	metE	Sphingomonas
+OMMLON	dapA	Sodalis,Sphingomonas
+OMMLON	dapB	Sodalis,Sphingomonas
+OMMLON	dapC	Sphingomonas
+OMMLON	dapD	Sodalis,Sphingomonas
+OMMLON	dapE	Sodalis,Sphingomonas
+OMMLON	dapF	Sodalis,Sphingomonas
+OMMLON	lysA	Sphingomonas
+OMMLON	argA	Sodalis,Sphingomonas
+OMMLON	argB	Sphingomonas
+OMMLON	argC	Sphingomonas,Sphingomonas
+OMMLON	argD	Sphingomonas
+OMMLON	argE	Sodalis,Sphingomonas
+OMMLON	argF	Sphingomonas
+OMMLON	argG	Sphingomonas
+OMMLON	argH	Sphingomonas
+OMMLON	carA	Sphingomonas
+OMMLON	carB	Sphingomonas
+OMMLON	hisA	
+OMMLON	hisB	Sphingomonas
+OMMLON	hisC	Sphingomonas,Sphingomonas
+OMMLON	hisD	Sphingomonas
+OMMLON	hisE	
+OMMLON	hisF	Sphingomonas
+OMMLON	hisG	Sphingomonas
+OMMLON	hisH	Sphingomonas
+OMMLON	hisI	Sphingomonas
+OMMLON	aroG	
+OMMLON	aroB	
+OMMLON	aroQ	Sodalis,Sphingomonas
+OMMLON	aroE	Sodalis,Sphingomonas
+OMMLON	aroK	Sodalis
+OMMLON	aroA	Sphingomonas
+OMMLON	aroC	Sodalis,Sphingomonas
+OMMLON	pheA	Sphingomonas
+OMMLON	aspC	Sodalis,Sphingomonas
+OMMLON	trpE	Sphingomonas,Sphingomonas
+OMMLON	trpD	Sphingomonas
+OMMLON	trpG	Sphingomonas
+OMMLON	trpF	Sphingomonas
+OMMLON	trpC	Sphingomonas
+OMMLON	trpB	Sphingomonas
+OMMLON	trpA	Sphingomonas
+OMMLON	ilvB	
+OMMLON	ilvN	
+OMMLON	ilvC	
+OMMLON	ilvD	Sodalis,Sphingomonas
+OMMLON	leuA	Sphingomonas
+OMMLON	leuC	Sphingomonas
+OMMLON	leuD	Sphingomonas
+OMMLON	leuB	Sphingomonas
+OMMLON	ilvE	Sodalis
+OMMLON	ilvA	Sodalis,Sphingomonas
+OMMLON	ilvB	
+OMMLON	ilvN	
+OMMLON	ilvC	
+OMMLON	ilvD	Sodalis,Sphingomonas
+OMMLON	ilvE	Sodalis
+CALBON1	lysC	Sodalis
+CALBON1	asd	Sodalis
+CALBON1	thrA	Sodalis
+CALBON1	thrB	
+CALBON1	thrC	
+CALBON1	metA	
+CALBON1	metB	
+CALBON1	metC	
+CALBON1	metE	
+CALBON1	dapA	Sodalis
+CALBON1	dapB	Sodalis
+CALBON1	dapC	
+CALBON1	dapD	Sodalis
+CALBON1	dapE	Sodalis
+CALBON1	dapF	
+CALBON1	lysA	
+CALBON1	argA	
+CALBON1	argB	
+CALBON1	argC	
+CALBON1	argD	
+CALBON1	argE	Sodalis
+CALBON1	argF	
+CALBON1	argG	
+CALBON1	argH	
+CALBON1	carA	
+CALBON1	carB	
+CALBON1	hisA	
+CALBON1	hisB	
+CALBON1	hisC	
+CALBON1	hisD	
+CALBON1	hisE	
+CALBON1	hisF	
+CALBON1	hisG	
+CALBON1	hisH	
+CALBON1	hisI	
+CALBON1	aroG	
+CALBON1	aroB	
+CALBON1	aroQ	Sodalis
+CALBON1	aroE	
+CALBON1	aroK	
+CALBON1	aroA	
+CALBON1	aroC	
+CALBON1	pheA	
+CALBON1	aspC	
+CALBON1	trpE	
+CALBON1	trpD	
+CALBON1	trpG	
+CALBON1	trpF	
+CALBON1	trpC	
+CALBON1	trpB	
+CALBON1	trpA	
+CALBON1	ilvB	
+CALBON1	ilvN	
+CALBON1	ilvC	
+CALBON1	ilvD	
+CALBON1	leuA	
+CALBON1	leuC	
+CALBON1	leuD	
+CALBON1	leuB	
+CALBON1	ilvE	
+CALBON1	ilvA	
+CALBON1	ilvB	
+CALBON1	ilvN	
+CALBON1	ilvC	
+CALBON1	ilvD	
+CALBON1	ilvE	
+BRUSP1	lysC	Sodalis
+BRUSP1	asd	Sodalis
+BRUSP1	thrA	Sodalis
+BRUSP1	thrB	
+BRUSP1	thrC	
+BRUSP1	metA	
+BRUSP1	metB	Sodalis
+BRUSP1	metC	
+BRUSP1	metE	
+BRUSP1	dapA	Sodalis
+BRUSP1	dapB	Sodalis
+BRUSP1	dapC	Sodalis
+BRUSP1	dapD	Sodalis
+BRUSP1	dapE	Sodalis
+BRUSP1	dapF	Sodalis
+BRUSP1	lysA	Sodalis
+BRUSP1	argA	Sodalis
+BRUSP1	argB	
+BRUSP1	argC	
+BRUSP1	argD	Sodalis
+BRUSP1	argE	Sodalis
+BRUSP1	argF	Sodalis
+BRUSP1	argG	
+BRUSP1	argH	
+BRUSP1	carA	Sodalis
+BRUSP1	carB	Sodalis
+BRUSP1	hisA	
+BRUSP1	hisB	Sodalis
+BRUSP1	hisC	Sodalis
+BRUSP1	hisD	Sodalis
+BRUSP1	hisE	
+BRUSP1	hisF	Sodalis
+BRUSP1	hisG	Sodalis
+BRUSP1	hisH	Sodalis
+BRUSP1	hisI	Sodalis
+BRUSP1	aroG	Sodalis
+BRUSP1	aroB	Sodalis
+BRUSP1	aroQ	Sodalis
+BRUSP1	aroE	Sodalis
+BRUSP1	aroK	Sodalis
+BRUSP1	aroA	
+BRUSP1	aroC	Sodalis
+BRUSP1	pheA	
+BRUSP1	aspC	Sodalis
+BRUSP1	trpE	
+BRUSP1	trpD	
+BRUSP1	trpG	
+BRUSP1	trpF	
+BRUSP1	trpC	
+BRUSP1	trpB	Sodalis
+BRUSP1	trpA	Sodalis
+BRUSP1	ilvB	
+BRUSP1	ilvN	
+BRUSP1	ilvC	
+BRUSP1	ilvD	
+BRUSP1	leuA	Sodalis
+BRUSP1	leuC	Sodalis
+BRUSP1	leuD	
+BRUSP1	leuB	Sodalis
+BRUSP1	ilvE	
+BRUSP1	ilvA	
+BRUSP1	ilvB	
+BRUSP1	ilvN	
+BRUSP1	ilvC	
+BRUSP1	ilvD	
+BRUSP1	ilvE	
+BRUOCU	lysC	Sodalis
+BRUOCU	asd	Sodalis
+BRUOCU	thrA	Sodalis
+BRUOCU	thrB	
+BRUOCU	thrC	
+BRUOCU	metA	
+BRUOCU	metB	Sodalis
+BRUOCU	metC	
+BRUOCU	metE	
+BRUOCU	dapA	Sodalis
+BRUOCU	dapB	Sodalis
+BRUOCU	dapC	Sodalis
+BRUOCU	dapD	Sodalis
+BRUOCU	dapE	Sodalis
+BRUOCU	dapF	Sodalis
+BRUOCU	lysA	
+BRUOCU	argA	Sodalis
+BRUOCU	argB	
+BRUOCU	argC	
+BRUOCU	argD	Sodalis
+BRUOCU	argE	Sodalis
+BRUOCU	argF	Sodalis
+BRUOCU	argG	
+BRUOCU	argH	
+BRUOCU	carA	Sodalis
+BRUOCU	carB	Sodalis
+BRUOCU	hisA	
+BRUOCU	hisB	
+BRUOCU	hisC	Sodalis
+BRUOCU	hisD	
+BRUOCU	hisE	
+BRUOCU	hisF	
+BRUOCU	hisG	
+BRUOCU	hisH	
+BRUOCU	hisI	
+BRUOCU	aroG	Sodalis
+BRUOCU	aroB	Sodalis
+BRUOCU	aroQ	Sodalis
+BRUOCU	aroE	Sodalis
+BRUOCU	aroK	Sodalis
+BRUOCU	aroA	
+BRUOCU	aroC	Sodalis
+BRUOCU	pheA	
+BRUOCU	aspC	Sodalis
+BRUOCU	trpE	
+BRUOCU	trpD	
+BRUOCU	trpG	
+BRUOCU	trpF	
+BRUOCU	trpC	
+BRUOCU	trpB	
+BRUOCU	trpA	
+BRUOCU	ilvB	
+BRUOCU	ilvN	
+BRUOCU	ilvC	
+BRUOCU	ilvD	
+BRUOCU	leuA	
+BRUOCU	leuC	
+BRUOCU	leuD	
+BRUOCU	leuB	
+BRUOCU	ilvE	
+BRUOCU	ilvA	
+BRUOCU	ilvB	
+BRUOCU	ilvN	
+BRUOCU	ilvC	
+BRUOCU	ilvD	
+BRUOCU	ilvE	
