@@ -13,10 +13,10 @@ Custom scripts for analyses and visualization used in the manuscript:
 This repository provides scripts to annotate, compare, and visualize the genomes of ancient bacterial symbionts (*Sulcia* and *Vidania*).
 
 **Included scripts:**
-1. **SymCap.py** – Genome annotation of fast-evolving symbionts  
-2. **Promer_style_genome_comparison.pyde** – Genome organization comparison  
-3. **Nutritional_complementarity.pyde** – Visualization of symbiont contributions to amino acid biosynthesis  
-4. **Genome_content_visualisation.pyde** – Visualization of genome content tables  
+1. **[SymCap.py](https://github.com/AnnaMichalik22/Planthopper-ancient-symbioses---supplementary-materials/tree/main/Script1_Annotation_%20of_ancient_planthopper_symbionts)** – Genome annotation of fast-evolving symbionts  
+2. **[Promer_style_genome_comparison.pyde](https://github.com/AnnaMichalik22/Planthopper-ancient-symbioses---supplementary-materials/tree/main/Script2_Comparison_of_genome_organization)** – Genome organization comparison  
+3. **[Nutritional_complementarity.pyde](https://github.com/AnnaMichalik22/Planthopper-ancient-symbioses---supplementary-materials/tree/main/Script3_Symbionts_contribution_in_biosynthesis%20pathways)** – Visualization of symbiont contributions to amino acid biosynthesis  
+4. **[Genome_content_visualisation.pyde](https://github.com/AnnaMichalik22/Planthopper-ancient-symbioses---supplementary-materials/tree/main/Script4_Visualization_of_symbiont_genome_content)** – Visualization of genome content tables  
 
 ---
 
@@ -25,7 +25,7 @@ This repository provides scripts to annotate, compare, and visualize the genomes
 Make sure the following are installed before running the scripts:
 
 - [HMMER 3.2](http://hmmer.org/)  
-- [Getorf](https://www.ebi.ac.uk/Tools/sfc/getorf/)  
+- [getORF](https://www.ebi.ac.uk/Tools/sfc/getorf/)  
 - [RNAmmer](http://www.cbs.dtu.dk/services/RNAmmer/)  
 - [tRNAscan-SE](http://lowelab.ucsc.edu/tRNAscan-SE/)  
 - [MAFFT](https://mafft.cbrc.jp/alignment/software/)  
