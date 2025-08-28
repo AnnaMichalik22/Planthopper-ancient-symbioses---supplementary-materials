@@ -49,6 +49,7 @@ Annotates symbiont genomes (*Sulcia* and *Vidania*) using curated protein and RN
 ```bash
 # Edit lines 31–61 in SymCap.py to configure paths and parameters
 ./SymCap.py
+```
 **Output**:
 
 - GFF annotation files
@@ -71,6 +72,7 @@ This was developed after we found that **PROMER** (a standard comparison tool) s
 ./process_gff.py [gff_file] > [pro_file]
 # Example:
 ./process_gff.py VFDICMUL.gff > VFDICMUL.pro
+```
 
 ### 3. **Nutritional Complementarity – `Nutritional_complementarity.pyde`**
 A **Processing v3.5.4 (Python mode)** script developed to visualize symbiont contributions to amino acid biosynthesis pathways.  
@@ -105,5 +107,5 @@ A **Processing v3.5.4 (Python mode)** script for visualizing the results of gene
 - Uses distinct colors for each gene category  
 - Can be easily customized to sort/trim the table or adapted to visualize similar datasets  
 
-As input for the Genome_content_visualisation script, you need to provide the output file from the SymCap script: Genome_content_table.csv. 
+As input for the Genome_content_visualisation script, you need to provide the output file from the SymCap script: Genome_content_table.csv
 You may choose to sort or trim the table, and the script can be modified easily to enable the visualization of similar data tables.
